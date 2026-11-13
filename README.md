@@ -35,12 +35,6 @@ This package supports the main HATS MATH-500 run and the online baseline runners
 
 The package does not include plotting scripts, figure files, remote execution logs, hardware profiling traces, model checkpoints, or full experiment logs.
 
-## Answer checking
-
-Accuracy is computed by `check_answer` in `tts_benchmark/datasets/loader.py`, which falls back to the SymPy LaTeX parser for answers that differ only in formatting. That parser needs `antlr4-python3-runtime` 4.11, which is pinned in `requirements.txt`. With another antlr4 version SymPy cannot load the parser, the error is caught, and formatting variants such as `\dfrac{4}{3}` against `\frac43` are scored as wrong.
-
-The `is_correct` fields stored in `data/sc4_baseline_math500.json` were produced without the parser and give 80.6% accuracy. Rescoring the stored answers with `check_answer` under antlr4 4.11 gives the 83.2% SC-4 reference reported in the paper.
-
 ## Environment
 
 The experiments use Python 3.11, CUDA-compatible PyTorch, and vLLM. The default model is `deepseek-ai/DeepSeek-R1-Distill-Qwen-7B`. A single 24 GB GPU is sufficient for the MATH-500 settings used here.
@@ -62,6 +56,14 @@ Raw datasets are loaded with HuggingFace `datasets`:
 - AIME 2022--2024: `AI-MO/aimo-validation-aime`
 
 The loader code is in `tts_benchmark/datasets/loader.py`.
+
+The additional zero-shot transfer benchmarks are taken from:
+
+- SVAMP: `ChilleD/SVAMP`, test split, 300 problems
+- GSM-Hard: `reasoning-machines/gsm-hard`, 300 problems sampled with random seed 42
+- MinervaMath: `math-ai/minervamath`, test split, 272 problems
+- AMC23: `math-ai/amc23`, test split, 40 problems
+- AIME 2025: `math-ai/aime25`, test split, 30 problems
 
 ## Typical Workflow
 
@@ -109,3 +111,7 @@ python baseline_real_run.py --dataset math500 --policy rpc --output results/rpc_
   year      = {2026}
 }
 ```
+
+## License
+
+This project is released under the MIT License. See `LICENSE` for details.
