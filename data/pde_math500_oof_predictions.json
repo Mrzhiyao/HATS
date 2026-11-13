@@ -1,0 +1,2002 @@
+{
+  "math500_0": {
+    "predicted_difficulty": 0.029390914365649223,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_1": {
+    "predicted_difficulty": 0.7263363599777222,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_2": {
+    "predicted_difficulty": 0.006533988285809755,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_3": {
+    "predicted_difficulty": 0.00891651026904583,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_4": {
+    "predicted_difficulty": 0.281035453081131,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_5": {
+    "predicted_difficulty": 0.23666860163211823,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_6": {
+    "predicted_difficulty": 0.02216559648513794,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_7": {
+    "predicted_difficulty": 0.25011882185935974,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_8": {
+    "predicted_difficulty": 0.5947648286819458,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_9": {
+    "predicted_difficulty": 0.010495130904018879,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_10": {
+    "predicted_difficulty": 0.9674491286277771,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_11": {
+    "predicted_difficulty": 0.0688956007361412,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_12": {
+    "predicted_difficulty": 0.07951873540878296,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_13": {
+    "predicted_difficulty": 0.15539616346359253,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_14": {
+    "predicted_difficulty": 0.6925734877586365,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_15": {
+    "predicted_difficulty": 0.05550417676568031,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_16": {
+    "predicted_difficulty": 0.009639103896915913,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_17": {
+    "predicted_difficulty": 0.32844871282577515,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_18": {
+    "predicted_difficulty": 0.9757795333862305,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_19": {
+    "predicted_difficulty": 0.26633891463279724,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_20": {
+    "predicted_difficulty": 0.0011636186391115189,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_21": {
+    "predicted_difficulty": 0.05602715536952019,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_22": {
+    "predicted_difficulty": 0.3908596932888031,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_23": {
+    "predicted_difficulty": 0.14564955234527588,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_24": {
+    "predicted_difficulty": 0.9387719631195068,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_25": {
+    "predicted_difficulty": 0.9484769701957703,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_26": {
+    "predicted_difficulty": 0.21125032007694244,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_27": {
+    "predicted_difficulty": 0.0023155261296778917,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_28": {
+    "predicted_difficulty": 0.30198681354522705,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_29": {
+    "predicted_difficulty": 0.25475630164146423,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_30": {
+    "predicted_difficulty": 0.9963878393173218,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_31": {
+    "predicted_difficulty": 0.1078474298119545,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_32": {
+    "predicted_difficulty": 0.5867968201637268,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_33": {
+    "predicted_difficulty": 0.11609843373298645,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_34": {
+    "predicted_difficulty": 0.0005140980938449502,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_35": {
+    "predicted_difficulty": 0.06575112789869308,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_36": {
+    "predicted_difficulty": 0.0036886553280055523,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_37": {
+    "predicted_difficulty": 0.20414617657661438,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_38": {
+    "predicted_difficulty": 0.024412913247942924,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_39": {
+    "predicted_difficulty": 0.00034114395384676754,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_40": {
+    "predicted_difficulty": 0.7061020135879517,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_41": {
+    "predicted_difficulty": 0.28021183609962463,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_42": {
+    "predicted_difficulty": 0.00047053140588104725,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_43": {
+    "predicted_difficulty": 0.9629098773002625,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_44": {
+    "predicted_difficulty": 0.49946358799934387,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_45": {
+    "predicted_difficulty": 0.01924678310751915,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_46": {
+    "predicted_difficulty": 0.19725365936756134,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_47": {
+    "predicted_difficulty": 0.06786150485277176,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_48": {
+    "predicted_difficulty": 0.005309900268912315,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_49": {
+    "predicted_difficulty": 0.0002778693160507828,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_50": {
+    "predicted_difficulty": 0.11918815225362778,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_51": {
+    "predicted_difficulty": 0.05542028322815895,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_52": {
+    "predicted_difficulty": 0.0032461611554026604,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_53": {
+    "predicted_difficulty": 0.025628050789237022,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_54": {
+    "predicted_difficulty": 0.059148453176021576,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_55": {
+    "predicted_difficulty": 0.00014626423944719136,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_56": {
+    "predicted_difficulty": 0.010899108834564686,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_57": {
+    "predicted_difficulty": 0.15972131490707397,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_58": {
+    "predicted_difficulty": 0.02860954776406288,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_59": {
+    "predicted_difficulty": 0.0844382494688034,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_60": {
+    "predicted_difficulty": 0.16701485216617584,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_61": {
+    "predicted_difficulty": 0.011883105151355267,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_62": {
+    "predicted_difficulty": 0.7097941637039185,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_63": {
+    "predicted_difficulty": 0.479303777217865,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_64": {
+    "predicted_difficulty": 0.16325043141841888,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_65": {
+    "predicted_difficulty": 0.13136173784732819,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_66": {
+    "predicted_difficulty": 0.09458235651254654,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_67": {
+    "predicted_difficulty": 0.8675922155380249,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_68": {
+    "predicted_difficulty": 0.2511848509311676,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_69": {
+    "predicted_difficulty": 0.04785718396306038,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_70": {
+    "predicted_difficulty": 0.912346601486206,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_71": {
+    "predicted_difficulty": 0.8876783847808838,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_72": {
+    "predicted_difficulty": 0.05789228528738022,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_73": {
+    "predicted_difficulty": 0.005277187097817659,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_74": {
+    "predicted_difficulty": 0.3031539022922516,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_75": {
+    "predicted_difficulty": 0.005555077455937862,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_76": {
+    "predicted_difficulty": 0.0012233270099386573,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_77": {
+    "predicted_difficulty": 0.00012972851982340217,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_78": {
+    "predicted_difficulty": 0.7315539121627808,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_79": {
+    "predicted_difficulty": 0.00036570156225934625,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_80": {
+    "predicted_difficulty": 0.08288995176553726,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_81": {
+    "predicted_difficulty": 0.01498140674084425,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_82": {
+    "predicted_difficulty": 0.09862446784973145,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_83": {
+    "predicted_difficulty": 0.0013424091739580035,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_84": {
+    "predicted_difficulty": 0.00021634696167893708,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_85": {
+    "predicted_difficulty": 0.9385943412780762,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_86": {
+    "predicted_difficulty": 0.050490252673625946,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_87": {
+    "predicted_difficulty": 0.00178405677434057,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_88": {
+    "predicted_difficulty": 0.7578932642936707,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_89": {
+    "predicted_difficulty": 0.019295932725071907,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_90": {
+    "predicted_difficulty": 0.0066862888634204865,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_91": {
+    "predicted_difficulty": 0.007120889145880938,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_92": {
+    "predicted_difficulty": 0.032378099858760834,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_93": {
+    "predicted_difficulty": 0.007451073732227087,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_94": {
+    "predicted_difficulty": 0.7806965708732605,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_95": {
+    "predicted_difficulty": 0.05477723106741905,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_96": {
+    "predicted_difficulty": 0.09639454632997513,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_97": {
+    "predicted_difficulty": 0.5325714349746704,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_98": {
+    "predicted_difficulty": 0.0033425430301576853,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_99": {
+    "predicted_difficulty": 0.03346479311585426,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_100": {
+    "predicted_difficulty": 0.652658998966217,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_101": {
+    "predicted_difficulty": 0.8029030561447144,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_102": {
+    "predicted_difficulty": 0.003572452114894986,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_103": {
+    "predicted_difficulty": 0.8896392583847046,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_104": {
+    "predicted_difficulty": 0.2813742756843567,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_105": {
+    "predicted_difficulty": 0.0012274687178432941,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_106": {
+    "predicted_difficulty": 0.0011826915433630347,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_107": {
+    "predicted_difficulty": 0.03433264046907425,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_108": {
+    "predicted_difficulty": 0.013982633128762245,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_109": {
+    "predicted_difficulty": 0.511359453201294,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_110": {
+    "predicted_difficulty": 0.39650067687034607,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_111": {
+    "predicted_difficulty": 0.0021416323725134134,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_112": {
+    "predicted_difficulty": 0.0005556999822147191,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_113": {
+    "predicted_difficulty": 0.0006540907197631896,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_114": {
+    "predicted_difficulty": 0.04305700212717056,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_115": {
+    "predicted_difficulty": 0.16765284538269043,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_116": {
+    "predicted_difficulty": 0.004788902122527361,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_117": {
+    "predicted_difficulty": 0.005199512932449579,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_118": {
+    "predicted_difficulty": 0.09312112629413605,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_119": {
+    "predicted_difficulty": 0.977452278137207,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_120": {
+    "predicted_difficulty": 0.12864470481872559,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_121": {
+    "predicted_difficulty": 0.03862614929676056,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_122": {
+    "predicted_difficulty": 0.0007438453612849116,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_123": {
+    "predicted_difficulty": 0.11773207038640976,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_124": {
+    "predicted_difficulty": 0.3742968738079071,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_125": {
+    "predicted_difficulty": 0.0015594318974763155,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_126": {
+    "predicted_difficulty": 0.8856995105743408,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_127": {
+    "predicted_difficulty": 0.9099318385124207,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_128": {
+    "predicted_difficulty": 0.2441231906414032,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_129": {
+    "predicted_difficulty": 0.10259216278791428,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_130": {
+    "predicted_difficulty": 0.00034725278965197504,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_131": {
+    "predicted_difficulty": 0.001149240881204605,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_132": {
+    "predicted_difficulty": 0.03938116878271103,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_133": {
+    "predicted_difficulty": 0.29380810260772705,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_134": {
+    "predicted_difficulty": 0.008653107099235058,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_135": {
+    "predicted_difficulty": 0.07313814014196396,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_136": {
+    "predicted_difficulty": 0.953769326210022,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_137": {
+    "predicted_difficulty": 0.26710066199302673,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_138": {
+    "predicted_difficulty": 0.5424533486366272,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_139": {
+    "predicted_difficulty": 0.13778738677501678,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_140": {
+    "predicted_difficulty": 0.03267082944512367,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_141": {
+    "predicted_difficulty": 0.12110809981822968,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_142": {
+    "predicted_difficulty": 0.6602810025215149,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_143": {
+    "predicted_difficulty": 0.0023784327786415815,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_144": {
+    "predicted_difficulty": 0.1447528600692749,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_145": {
+    "predicted_difficulty": 0.9522594809532166,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_146": {
+    "predicted_difficulty": 0.863289475440979,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_147": {
+    "predicted_difficulty": 0.0011846438283100724,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_148": {
+    "predicted_difficulty": 0.0038107323925942183,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_149": {
+    "predicted_difficulty": 0.005550474859774113,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_150": {
+    "predicted_difficulty": 0.593545138835907,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_151": {
+    "predicted_difficulty": 0.01825026609003544,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_152": {
+    "predicted_difficulty": 0.5650766491889954,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_153": {
+    "predicted_difficulty": 0.1674424260854721,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_154": {
+    "predicted_difficulty": 0.595506489276886,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_155": {
+    "predicted_difficulty": 0.016570238396525383,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_156": {
+    "predicted_difficulty": 0.8983514308929443,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_157": {
+    "predicted_difficulty": 0.1735115945339203,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_158": {
+    "predicted_difficulty": 0.00018928702047560364,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_159": {
+    "predicted_difficulty": 0.07713743299245834,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_160": {
+    "predicted_difficulty": 6.814189691795036e-05,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_161": {
+    "predicted_difficulty": 0.014631143771111965,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_162": {
+    "predicted_difficulty": 0.07581903040409088,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_163": {
+    "predicted_difficulty": 0.08644875884056091,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_164": {
+    "predicted_difficulty": 0.556371808052063,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_165": {
+    "predicted_difficulty": 0.1311558037996292,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_166": {
+    "predicted_difficulty": 0.9577906131744385,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_167": {
+    "predicted_difficulty": 0.037727002054452896,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_168": {
+    "predicted_difficulty": 0.2556329369544983,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_169": {
+    "predicted_difficulty": 0.004285594914108515,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_170": {
+    "predicted_difficulty": 0.8002113699913025,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_171": {
+    "predicted_difficulty": 0.0968502014875412,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_172": {
+    "predicted_difficulty": 0.008207154460251331,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_173": {
+    "predicted_difficulty": 0.7025983333587646,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_174": {
+    "predicted_difficulty": 0.003063540905714035,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_175": {
+    "predicted_difficulty": 0.1485556662082672,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_176": {
+    "predicted_difficulty": 0.3532026410102844,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_177": {
+    "predicted_difficulty": 0.40047594904899597,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_178": {
+    "predicted_difficulty": 0.03671179339289665,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_179": {
+    "predicted_difficulty": 0.6624130606651306,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_180": {
+    "predicted_difficulty": 0.0007878502365201712,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_181": {
+    "predicted_difficulty": 0.05900339409708977,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_182": {
+    "predicted_difficulty": 0.0001523467799415812,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_183": {
+    "predicted_difficulty": 0.007760921493172646,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_184": {
+    "predicted_difficulty": 0.8675038814544678,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_185": {
+    "predicted_difficulty": 0.0006818494875915349,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_186": {
+    "predicted_difficulty": 0.03682853654026985,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_187": {
+    "predicted_difficulty": 0.004500904586166143,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_188": {
+    "predicted_difficulty": 0.8607192635536194,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_189": {
+    "predicted_difficulty": 0.9534375667572021,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_190": {
+    "predicted_difficulty": 0.003259992692619562,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_191": {
+    "predicted_difficulty": 0.0001773547410266474,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_192": {
+    "predicted_difficulty": 0.20193824172019958,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_193": {
+    "predicted_difficulty": 0.23816527426242828,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_194": {
+    "predicted_difficulty": 0.5437958836555481,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_195": {
+    "predicted_difficulty": 0.19380922615528107,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_196": {
+    "predicted_difficulty": 0.0007739622378721833,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_197": {
+    "predicted_difficulty": 0.06760798394680023,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_198": {
+    "predicted_difficulty": 0.8528759479522705,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_199": {
+    "predicted_difficulty": 7.525495311710984e-05,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_200": {
+    "predicted_difficulty": 0.05033635348081589,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_201": {
+    "predicted_difficulty": 0.005573615897446871,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_202": {
+    "predicted_difficulty": 0.05480417609214783,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_203": {
+    "predicted_difficulty": 0.15450306236743927,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_204": {
+    "predicted_difficulty": 0.9389446973800659,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_205": {
+    "predicted_difficulty": 0.5741243362426758,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_206": {
+    "predicted_difficulty": 0.09215498715639114,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_207": {
+    "predicted_difficulty": 0.07767370343208313,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_208": {
+    "predicted_difficulty": 0.1663201004266739,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_209": {
+    "predicted_difficulty": 0.016854804009199142,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_210": {
+    "predicted_difficulty": 0.5908392667770386,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_211": {
+    "predicted_difficulty": 0.14660100638866425,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_212": {
+    "predicted_difficulty": 0.7663075923919678,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_213": {
+    "predicted_difficulty": 0.6677903532981873,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_214": {
+    "predicted_difficulty": 0.0014820194337517023,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_215": {
+    "predicted_difficulty": 0.008336396887898445,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_216": {
+    "predicted_difficulty": 0.022939996793866158,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_217": {
+    "predicted_difficulty": 0.30120381712913513,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_218": {
+    "predicted_difficulty": 0.0024412667844444513,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_219": {
+    "predicted_difficulty": 0.6948453187942505,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_220": {
+    "predicted_difficulty": 0.07641604542732239,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_221": {
+    "predicted_difficulty": 0.0026695681735873222,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_222": {
+    "predicted_difficulty": 0.9923757910728455,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_223": {
+    "predicted_difficulty": 0.001251420471817255,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_224": {
+    "predicted_difficulty": 0.955916166305542,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_225": {
+    "predicted_difficulty": 0.0002159475552616641,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_226": {
+    "predicted_difficulty": 0.05446818843483925,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_227": {
+    "predicted_difficulty": 0.9976499676704407,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_228": {
+    "predicted_difficulty": 0.9563122987747192,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_229": {
+    "predicted_difficulty": 0.00263785757124424,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_230": {
+    "predicted_difficulty": 0.7574407458305359,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_231": {
+    "predicted_difficulty": 0.2531069815158844,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_232": {
+    "predicted_difficulty": 0.9433665871620178,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_233": {
+    "predicted_difficulty": 0.11289793998003006,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_234": {
+    "predicted_difficulty": 0.0009984323987737298,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_235": {
+    "predicted_difficulty": 0.03677276894450188,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_236": {
+    "predicted_difficulty": 0.6366868615150452,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_237": {
+    "predicted_difficulty": 0.43143540620803833,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_238": {
+    "predicted_difficulty": 0.0022191342432051897,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_239": {
+    "predicted_difficulty": 0.015039541758596897,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_240": {
+    "predicted_difficulty": 0.8762081861495972,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_241": {
+    "predicted_difficulty": 0.0009120239992626011,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_242": {
+    "predicted_difficulty": 0.2557159960269928,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_243": {
+    "predicted_difficulty": 0.04522847384214401,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_244": {
+    "predicted_difficulty": 0.696616530418396,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_245": {
+    "predicted_difficulty": 0.001870769658125937,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_246": {
+    "predicted_difficulty": 0.027855267748236656,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_247": {
+    "predicted_difficulty": 0.17241202294826508,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_248": {
+    "predicted_difficulty": 0.15405942499637604,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_249": {
+    "predicted_difficulty": 0.21555988490581512,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_250": {
+    "predicted_difficulty": 0.002886358182877302,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_251": {
+    "predicted_difficulty": 0.5150812268257141,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_252": {
+    "predicted_difficulty": 0.0005621245363727212,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_253": {
+    "predicted_difficulty": 0.15176261961460114,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_254": {
+    "predicted_difficulty": 0.12803547084331512,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_255": {
+    "predicted_difficulty": 0.7592313885688782,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_256": {
+    "predicted_difficulty": 0.030305538326501846,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_257": {
+    "predicted_difficulty": 0.08888955414295197,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_258": {
+    "predicted_difficulty": 0.5512667894363403,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_259": {
+    "predicted_difficulty": 0.004687180742621422,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_260": {
+    "predicted_difficulty": 0.1957884132862091,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_261": {
+    "predicted_difficulty": 0.3811580240726471,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_262": {
+    "predicted_difficulty": 0.00037220880039967597,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_263": {
+    "predicted_difficulty": 0.006661032326519489,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_264": {
+    "predicted_difficulty": 0.8366656303405762,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_265": {
+    "predicted_difficulty": 0.006979783531278372,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_266": {
+    "predicted_difficulty": 0.02852066420018673,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_267": {
+    "predicted_difficulty": 0.8705248236656189,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_268": {
+    "predicted_difficulty": 0.0015920883743092418,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_269": {
+    "predicted_difficulty": 0.5666212439537048,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_270": {
+    "predicted_difficulty": 0.91828453540802,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_271": {
+    "predicted_difficulty": 0.010013594292104244,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_272": {
+    "predicted_difficulty": 0.0011679077288135886,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_273": {
+    "predicted_difficulty": 0.8595908880233765,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_274": {
+    "predicted_difficulty": 0.9614402055740356,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_275": {
+    "predicted_difficulty": 0.0007317177369259298,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_276": {
+    "predicted_difficulty": 0.005809071473777294,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_277": {
+    "predicted_difficulty": 0.06030905991792679,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_278": {
+    "predicted_difficulty": 0.967282235622406,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_279": {
+    "predicted_difficulty": 0.28605160117149353,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_280": {
+    "predicted_difficulty": 0.00014956262020859867,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_281": {
+    "predicted_difficulty": 0.6555002927780151,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_282": {
+    "predicted_difficulty": 0.6667780876159668,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_283": {
+    "predicted_difficulty": 0.06859340518712997,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_284": {
+    "predicted_difficulty": 0.01570885442197323,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_285": {
+    "predicted_difficulty": 0.8263776302337646,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_286": {
+    "predicted_difficulty": 0.9016776084899902,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_287": {
+    "predicted_difficulty": 0.9991999268531799,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_288": {
+    "predicted_difficulty": 0.0901661366224289,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_289": {
+    "predicted_difficulty": 0.3681785464286804,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_290": {
+    "predicted_difficulty": 0.004672689829021692,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_291": {
+    "predicted_difficulty": 0.8800682425498962,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_292": {
+    "predicted_difficulty": 0.7616966366767883,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_293": {
+    "predicted_difficulty": 0.5724285840988159,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_294": {
+    "predicted_difficulty": 0.15306134521961212,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_295": {
+    "predicted_difficulty": 0.007930674590170383,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_296": {
+    "predicted_difficulty": 0.0035546987783163786,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_297": {
+    "predicted_difficulty": 0.5167202353477478,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_298": {
+    "predicted_difficulty": 0.01625494472682476,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_299": {
+    "predicted_difficulty": 0.8561573028564453,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_300": {
+    "predicted_difficulty": 0.7459128499031067,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_301": {
+    "predicted_difficulty": 0.9201053977012634,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_302": {
+    "predicted_difficulty": 0.9920215010643005,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_303": {
+    "predicted_difficulty": 0.07608022540807724,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_304": {
+    "predicted_difficulty": 0.7334269881248474,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_305": {
+    "predicted_difficulty": 0.2582285702228546,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_306": {
+    "predicted_difficulty": 0.006617555394768715,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_307": {
+    "predicted_difficulty": 0.0010813716799020767,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_308": {
+    "predicted_difficulty": 0.24330908060073853,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_309": {
+    "predicted_difficulty": 0.016015902161598206,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_310": {
+    "predicted_difficulty": 0.0005714022554457188,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_311": {
+    "predicted_difficulty": 0.13294155895709991,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_312": {
+    "predicted_difficulty": 0.9981422424316406,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_313": {
+    "predicted_difficulty": 0.0031970234122127295,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_314": {
+    "predicted_difficulty": 0.01829044334590435,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_315": {
+    "predicted_difficulty": 0.0025330695789307356,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_316": {
+    "predicted_difficulty": 0.00017886723799165338,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_317": {
+    "predicted_difficulty": 0.27731770277023315,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_318": {
+    "predicted_difficulty": 0.007093677297234535,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_319": {
+    "predicted_difficulty": 0.00029894468025304377,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_320": {
+    "predicted_difficulty": 0.9467251896858215,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_321": {
+    "predicted_difficulty": 0.02883138135075569,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_322": {
+    "predicted_difficulty": 0.00030116140260361135,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_323": {
+    "predicted_difficulty": 0.148643359541893,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_324": {
+    "predicted_difficulty": 0.7456830143928528,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_325": {
+    "predicted_difficulty": 0.3831198215484619,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_326": {
+    "predicted_difficulty": 0.388939768075943,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_327": {
+    "predicted_difficulty": 0.8703016042709351,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_328": {
+    "predicted_difficulty": 0.13014452159404755,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_329": {
+    "predicted_difficulty": 0.9403856992721558,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_330": {
+    "predicted_difficulty": 0.006218436174094677,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_331": {
+    "predicted_difficulty": 0.3726189136505127,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_332": {
+    "predicted_difficulty": 0.08555743098258972,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_333": {
+    "predicted_difficulty": 0.7248040437698364,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_334": {
+    "predicted_difficulty": 0.0008629640797153115,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_335": {
+    "predicted_difficulty": 0.4748374819755554,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_336": {
+    "predicted_difficulty": 0.0001616134395590052,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_337": {
+    "predicted_difficulty": 0.006528227590024471,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_338": {
+    "predicted_difficulty": 0.0027772206813097,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_339": {
+    "predicted_difficulty": 0.023057846352458,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_340": {
+    "predicted_difficulty": 0.17302018404006958,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_341": {
+    "predicted_difficulty": 0.35022222995758057,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_342": {
+    "predicted_difficulty": 0.015013584867119789,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_343": {
+    "predicted_difficulty": 0.0006549674435518682,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_344": {
+    "predicted_difficulty": 0.4560685157775879,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_345": {
+    "predicted_difficulty": 0.00023969235189724714,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_346": {
+    "predicted_difficulty": 0.03632602095603943,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_347": {
+    "predicted_difficulty": 0.0009558740421198308,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_348": {
+    "predicted_difficulty": 0.030032776296138763,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_349": {
+    "predicted_difficulty": 0.891383171081543,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_350": {
+    "predicted_difficulty": 0.030703043565154076,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_351": {
+    "predicted_difficulty": 0.1427229344844818,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_352": {
+    "predicted_difficulty": 0.994988203048706,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_353": {
+    "predicted_difficulty": 0.5630906820297241,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_354": {
+    "predicted_difficulty": 0.05791764333844185,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_355": {
+    "predicted_difficulty": 0.3828219473361969,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_356": {
+    "predicted_difficulty": 0.9979719519615173,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_357": {
+    "predicted_difficulty": 0.018157964572310448,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_358": {
+    "predicted_difficulty": 0.011188054457306862,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_359": {
+    "predicted_difficulty": 0.776560366153717,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_360": {
+    "predicted_difficulty": 0.8088361024856567,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_361": {
+    "predicted_difficulty": 0.5052503347396851,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_362": {
+    "predicted_difficulty": 0.003361536655575037,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_363": {
+    "predicted_difficulty": 4.466390601010062e-05,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_364": {
+    "predicted_difficulty": 0.132405087351799,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_365": {
+    "predicted_difficulty": 0.01621197909116745,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_366": {
+    "predicted_difficulty": 0.0015126855578273535,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_367": {
+    "predicted_difficulty": 0.0006544580101035535,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_368": {
+    "predicted_difficulty": 0.0009701728704385459,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_369": {
+    "predicted_difficulty": 0.6571342349052429,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_370": {
+    "predicted_difficulty": 0.4335521459579468,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_371": {
+    "predicted_difficulty": 0.5494971871376038,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_372": {
+    "predicted_difficulty": 0.9914747476577759,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_373": {
+    "predicted_difficulty": 0.8435935378074646,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_374": {
+    "predicted_difficulty": 0.0003882366872858256,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_375": {
+    "predicted_difficulty": 0.0026001473888754845,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_376": {
+    "predicted_difficulty": 0.8564651608467102,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_377": {
+    "predicted_difficulty": 0.0076051028445363045,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_378": {
+    "predicted_difficulty": 0.06302598863840103,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_379": {
+    "predicted_difficulty": 0.017923537641763687,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_380": {
+    "predicted_difficulty": 0.06697405874729156,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_381": {
+    "predicted_difficulty": 0.2835790812969208,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_382": {
+    "predicted_difficulty": 0.7169373035430908,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_383": {
+    "predicted_difficulty": 0.14277632534503937,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_384": {
+    "predicted_difficulty": 0.018748588860034943,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_385": {
+    "predicted_difficulty": 0.09501872956752777,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_386": {
+    "predicted_difficulty": 0.0002083931176457554,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_387": {
+    "predicted_difficulty": 0.00012737431097775698,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_388": {
+    "predicted_difficulty": 0.6132949590682983,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_389": {
+    "predicted_difficulty": 0.289215624332428,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_390": {
+    "predicted_difficulty": 0.02137731947004795,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_391": {
+    "predicted_difficulty": 0.003419355023652315,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_392": {
+    "predicted_difficulty": 0.7580133676528931,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_393": {
+    "predicted_difficulty": 0.05790245160460472,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_394": {
+    "predicted_difficulty": 0.13254313170909882,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_395": {
+    "predicted_difficulty": 0.00010832056432263926,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_396": {
+    "predicted_difficulty": 0.8987749218940735,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_397": {
+    "predicted_difficulty": 0.005656029097735882,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_398": {
+    "predicted_difficulty": 0.25251638889312744,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_399": {
+    "predicted_difficulty": 0.0625436007976532,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_400": {
+    "predicted_difficulty": 0.8830057978630066,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_401": {
+    "predicted_difficulty": 0.4607625901699066,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_402": {
+    "predicted_difficulty": 0.6714909076690674,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_403": {
+    "predicted_difficulty": 0.9554871916770935,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_404": {
+    "predicted_difficulty": 0.04834038019180298,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_405": {
+    "predicted_difficulty": 0.04796961322426796,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_406": {
+    "predicted_difficulty": 0.000987290870398283,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_407": {
+    "predicted_difficulty": 0.0004325110639911145,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_408": {
+    "predicted_difficulty": 0.5434926152229309,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_409": {
+    "predicted_difficulty": 0.00846552848815918,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_410": {
+    "predicted_difficulty": 0.000984787824563682,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_411": {
+    "predicted_difficulty": 0.012068609707057476,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_412": {
+    "predicted_difficulty": 0.9528099298477173,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_413": {
+    "predicted_difficulty": 0.0006059105508029461,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_414": {
+    "predicted_difficulty": 0.08496232330799103,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_415": {
+    "predicted_difficulty": 0.0009241627994924784,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_416": {
+    "predicted_difficulty": 0.9464896321296692,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_417": {
+    "predicted_difficulty": 0.0005070859333500266,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_418": {
+    "predicted_difficulty": 0.3081941306591034,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_419": {
+    "predicted_difficulty": 0.704580545425415,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_420": {
+    "predicted_difficulty": 0.7367905974388123,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_421": {
+    "predicted_difficulty": 0.9399402737617493,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_422": {
+    "predicted_difficulty": 0.5693487524986267,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_423": {
+    "predicted_difficulty": 0.02066006511449814,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_424": {
+    "predicted_difficulty": 0.01195563841611147,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_425": {
+    "predicted_difficulty": 0.3645366430282593,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_426": {
+    "predicted_difficulty": 0.8244766592979431,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_427": {
+    "predicted_difficulty": 0.7194765210151672,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_428": {
+    "predicted_difficulty": 0.9334238171577454,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_429": {
+    "predicted_difficulty": 0.20398689806461334,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_430": {
+    "predicted_difficulty": 0.05416877195239067,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_431": {
+    "predicted_difficulty": 0.6883258819580078,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_432": {
+    "predicted_difficulty": 0.755908191204071,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_433": {
+    "predicted_difficulty": 0.06362594664096832,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_434": {
+    "predicted_difficulty": 0.5847023129463196,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_435": {
+    "predicted_difficulty": 0.0013493847800418735,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_436": {
+    "predicted_difficulty": 0.001297134323976934,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_437": {
+    "predicted_difficulty": 0.5011457204818726,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_438": {
+    "predicted_difficulty": 0.059229589998722076,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_439": {
+    "predicted_difficulty": 0.01805930957198143,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_440": {
+    "predicted_difficulty": 7.56040244596079e-05,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_441": {
+    "predicted_difficulty": 0.00972274411469698,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_442": {
+    "predicted_difficulty": 0.004498080816119909,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_443": {
+    "predicted_difficulty": 0.0008467936422675848,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_444": {
+    "predicted_difficulty": 0.2046501487493515,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_445": {
+    "predicted_difficulty": 0.94105464220047,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_446": {
+    "predicted_difficulty": 0.007656094618141651,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_447": {
+    "predicted_difficulty": 0.23765641450881958,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_448": {
+    "predicted_difficulty": 0.14311523735523224,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_449": {
+    "predicted_difficulty": 7.323695899685845e-05,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_450": {
+    "predicted_difficulty": 0.6242885589599609,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_451": {
+    "predicted_difficulty": 0.01185817550867796,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_452": {
+    "predicted_difficulty": 0.12216425687074661,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_453": {
+    "predicted_difficulty": 0.03548961877822876,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_454": {
+    "predicted_difficulty": 0.05214892700314522,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_455": {
+    "predicted_difficulty": 0.0007909404230304062,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_456": {
+    "predicted_difficulty": 0.9912712574005127,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_457": {
+    "predicted_difficulty": 0.0010269548511132598,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_458": {
+    "predicted_difficulty": 0.05860622972249985,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_459": {
+    "predicted_difficulty": 0.813387393951416,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_460": {
+    "predicted_difficulty": 0.9625384211540222,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_461": {
+    "predicted_difficulty": 0.004868114832788706,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_462": {
+    "predicted_difficulty": 0.6596754193305969,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_463": {
+    "predicted_difficulty": 0.014433668926358223,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_464": {
+    "predicted_difficulty": 0.0749918669462204,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_465": {
+    "predicted_difficulty": 0.014032947830855846,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_466": {
+    "predicted_difficulty": 0.20495763421058655,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_467": {
+    "predicted_difficulty": 0.036652952432632446,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_468": {
+    "predicted_difficulty": 0.20809443295001984,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_469": {
+    "predicted_difficulty": 0.0006944983615539968,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_470": {
+    "predicted_difficulty": 0.10285602509975433,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_471": {
+    "predicted_difficulty": 0.0013672593049705029,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_472": {
+    "predicted_difficulty": 0.004231655970215797,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_473": {
+    "predicted_difficulty": 0.16238145530223846,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_474": {
+    "predicted_difficulty": 0.03851383924484253,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_475": {
+    "predicted_difficulty": 0.05386053025722504,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_476": {
+    "predicted_difficulty": 0.23586076498031616,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_477": {
+    "predicted_difficulty": 0.0007350238156504929,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_478": {
+    "predicted_difficulty": 0.2632962763309479,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_479": {
+    "predicted_difficulty": 0.4748311936855316,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_480": {
+    "predicted_difficulty": 0.9953149557113647,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_481": {
+    "predicted_difficulty": 0.7749693989753723,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_482": {
+    "predicted_difficulty": 0.0011566453613340855,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_483": {
+    "predicted_difficulty": 0.8868286609649658,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_484": {
+    "predicted_difficulty": 0.9871389269828796,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_485": {
+    "predicted_difficulty": 0.4815318286418915,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_486": {
+    "predicted_difficulty": 0.3715789318084717,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_487": {
+    "predicted_difficulty": 0.01728115975856781,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_488": {
+    "predicted_difficulty": 0.22273476421833038,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_489": {
+    "predicted_difficulty": 0.8478282690048218,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_490": {
+    "predicted_difficulty": 0.3933093249797821,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_491": {
+    "predicted_difficulty": 0.6576617360115051,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_492": {
+    "predicted_difficulty": 0.013485913164913654,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_493": {
+    "predicted_difficulty": 0.017178326845169067,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_494": {
+    "predicted_difficulty": 0.6518767476081848,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_495": {
+    "predicted_difficulty": 0.9966163039207458,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_496": {
+    "predicted_difficulty": 0.6257386207580566,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_497": {
+    "predicted_difficulty": 0.8192668557167053,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_498": {
+    "predicted_difficulty": 0.950645923614502,
+    "source": "strict_oof_hats_output"
+  },
+  "math500_499": {
+    "predicted_difficulty": 0.010061502456665039,
+    "source": "strict_oof_hats_output"
+  }
+}

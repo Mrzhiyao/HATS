@@ -1,0 +1,452 @@
+{
+  "aime_0": {
+    "predicted_difficulty": 0.5677614808082581,
+    "label": 0,
+    "tokens_greedy": 5063
+  },
+  "aime_1": {
+    "predicted_difficulty": 0.3156948983669281,
+    "label": 0,
+    "tokens_greedy": 5829
+  },
+  "aime_2": {
+    "predicted_difficulty": 0.4595663547515869,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_3": {
+    "predicted_difficulty": 0.14830021560192108,
+    "label": 0,
+    "tokens_greedy": 7479
+  },
+  "aime_4": {
+    "predicted_difficulty": 0.574269711971283,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_5": {
+    "predicted_difficulty": 0.9871237277984619,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_6": {
+    "predicted_difficulty": 0.09316734969615936,
+    "label": 0,
+    "tokens_greedy": 8448
+  },
+  "aime_7": {
+    "predicted_difficulty": 0.9330210089683533,
+    "label": 0,
+    "tokens_greedy": 3557
+  },
+  "aime_8": {
+    "predicted_difficulty": 0.4961467981338501,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_9": {
+    "predicted_difficulty": 0.2253059446811676,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_10": {
+    "predicted_difficulty": 0.569154679775238,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_11": {
+    "predicted_difficulty": 0.7926463484764099,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_12": {
+    "predicted_difficulty": 0.5547693371772766,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_13": {
+    "predicted_difficulty": 0.18647442758083344,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_14": {
+    "predicted_difficulty": 0.34076932072639465,
+    "label": 1,
+    "tokens_greedy": 11834
+  },
+  "aime_15": {
+    "predicted_difficulty": 0.10584492236375809,
+    "label": 0,
+    "tokens_greedy": 3775
+  },
+  "aime_16": {
+    "predicted_difficulty": 0.3860768973827362,
+    "label": 0,
+    "tokens_greedy": 6914
+  },
+  "aime_17": {
+    "predicted_difficulty": 0.6874043345451355,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_18": {
+    "predicted_difficulty": 0.5755849480628967,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_19": {
+    "predicted_difficulty": 0.31197118759155273,
+    "label": 0,
+    "tokens_greedy": 6652
+  },
+  "aime_20": {
+    "predicted_difficulty": 0.960889995098114,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_21": {
+    "predicted_difficulty": 0.9540920257568359,
+    "label": 1,
+    "tokens_greedy": 17913
+  },
+  "aime_22": {
+    "predicted_difficulty": 0.5143601298332214,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_23": {
+    "predicted_difficulty": 0.14900478720664978,
+    "label": 0,
+    "tokens_greedy": 3183
+  },
+  "aime_24": {
+    "predicted_difficulty": 0.056354306638240814,
+    "label": 0,
+    "tokens_greedy": 4963
+  },
+  "aime_25": {
+    "predicted_difficulty": 0.7043806910514832,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_26": {
+    "predicted_difficulty": 0.5451837778091431,
+    "label": 0,
+    "tokens_greedy": 6569
+  },
+  "aime_27": {
+    "predicted_difficulty": 0.06298787146806717,
+    "label": 0,
+    "tokens_greedy": 7569
+  },
+  "aime_28": {
+    "predicted_difficulty": 0.5882663130760193,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_29": {
+    "predicted_difficulty": 0.7068579196929932,
+    "label": 1,
+    "tokens_greedy": 12617
+  },
+  "aime_30": {
+    "predicted_difficulty": 0.38015130162239075,
+    "label": 0,
+    "tokens_greedy": 4498
+  },
+  "aime_31": {
+    "predicted_difficulty": 0.7265221476554871,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_32": {
+    "predicted_difficulty": 0.734990656375885,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_33": {
+    "predicted_difficulty": 0.7519984245300293,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_34": {
+    "predicted_difficulty": 0.9982158541679382,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_35": {
+    "predicted_difficulty": 0.5693214535713196,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_36": {
+    "predicted_difficulty": 0.5899276733398438,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_37": {
+    "predicted_difficulty": 0.26218974590301514,
+    "label": 0,
+    "tokens_greedy": 2506
+  },
+  "aime_38": {
+    "predicted_difficulty": 0.6137878894805908,
+    "label": 0,
+    "tokens_greedy": 2771
+  },
+  "aime_39": {
+    "predicted_difficulty": 0.5420525074005127,
+    "label": 0,
+    "tokens_greedy": 12708
+  },
+  "aime_40": {
+    "predicted_difficulty": 0.5841323733329773,
+    "label": 0,
+    "tokens_greedy": 6323
+  },
+  "aime_41": {
+    "predicted_difficulty": 0.34032851457595825,
+    "label": 0,
+    "tokens_greedy": 10929
+  },
+  "aime_42": {
+    "predicted_difficulty": 0.6904335021972656,
+    "label": 1,
+    "tokens_greedy": 6335
+  },
+  "aime_43": {
+    "predicted_difficulty": 0.6229649186134338,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_44": {
+    "predicted_difficulty": 0.5600407719612122,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_45": {
+    "predicted_difficulty": 0.03902030736207962,
+    "label": 0,
+    "tokens_greedy": 1554
+  },
+  "aime_46": {
+    "predicted_difficulty": 0.9981454610824585,
+    "label": 1,
+    "tokens_greedy": 8419
+  },
+  "aime_47": {
+    "predicted_difficulty": 0.9097406268119812,
+    "label": 1,
+    "tokens_greedy": 7591
+  },
+  "aime_48": {
+    "predicted_difficulty": 0.5086658596992493,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_49": {
+    "predicted_difficulty": 0.7686038613319397,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_50": {
+    "predicted_difficulty": 0.476131796836853,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_51": {
+    "predicted_difficulty": 0.36642464995384216,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_52": {
+    "predicted_difficulty": 0.7953222990036011,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_53": {
+    "predicted_difficulty": 0.8266088962554932,
+    "label": 1,
+    "tokens_greedy": 7021
+  },
+  "aime_54": {
+    "predicted_difficulty": 0.9325585961341858,
+    "label": 0,
+    "tokens_greedy": 6533
+  },
+  "aime_55": {
+    "predicted_difficulty": 0.5259432196617126,
+    "label": 0,
+    "tokens_greedy": 3510
+  },
+  "aime_56": {
+    "predicted_difficulty": 0.628036379814148,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_57": {
+    "predicted_difficulty": 0.8154374957084656,
+    "label": 1,
+    "tokens_greedy": 10556
+  },
+  "aime_58": {
+    "predicted_difficulty": 0.44244861602783203,
+    "label": 0,
+    "tokens_greedy": 18063
+  },
+  "aime_59": {
+    "predicted_difficulty": 0.49871915578842163,
+    "label": 0,
+    "tokens_greedy": 14885
+  },
+  "aime_60": {
+    "predicted_difficulty": 0.15268822014331818,
+    "label": 0,
+    "tokens_greedy": 1447
+  },
+  "aime_61": {
+    "predicted_difficulty": 0.24507592618465424,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_62": {
+    "predicted_difficulty": 0.40570810437202454,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_63": {
+    "predicted_difficulty": 0.7427942156791687,
+    "label": 1,
+    "tokens_greedy": 16868
+  },
+  "aime_64": {
+    "predicted_difficulty": 0.8443778157234192,
+    "label": 0,
+    "tokens_greedy": 10330
+  },
+  "aime_65": {
+    "predicted_difficulty": 0.5397366285324097,
+    "label": 0,
+    "tokens_greedy": 5491
+  },
+  "aime_66": {
+    "predicted_difficulty": 0.1468801498413086,
+    "label": 0,
+    "tokens_greedy": 18264
+  },
+  "aime_67": {
+    "predicted_difficulty": 0.38780391216278076,
+    "label": 0,
+    "tokens_greedy": 6100
+  },
+  "aime_68": {
+    "predicted_difficulty": 0.5891796350479126,
+    "label": 0,
+    "tokens_greedy": 4259
+  },
+  "aime_69": {
+    "predicted_difficulty": 0.19392496347427368,
+    "label": 0,
+    "tokens_greedy": 2747
+  },
+  "aime_70": {
+    "predicted_difficulty": 0.5578171610832214,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_71": {
+    "predicted_difficulty": 0.792477011680603,
+    "label": 0,
+    "tokens_greedy": 3109
+  },
+  "aime_72": {
+    "predicted_difficulty": 0.3812125325202942,
+    "label": 0,
+    "tokens_greedy": 4709
+  },
+  "aime_73": {
+    "predicted_difficulty": 0.42662468552589417,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_74": {
+    "predicted_difficulty": 0.8617703914642334,
+    "label": 0,
+    "tokens_greedy": 9995
+  },
+  "aime_75": {
+    "predicted_difficulty": 0.08356041461229324,
+    "label": 0,
+    "tokens_greedy": 2306
+  },
+  "aime_76": {
+    "predicted_difficulty": 0.39074501395225525,
+    "label": 0,
+    "tokens_greedy": 6688
+  },
+  "aime_77": {
+    "predicted_difficulty": 0.9511151313781738,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_78": {
+    "predicted_difficulty": 0.054086312651634216,
+    "label": 0,
+    "tokens_greedy": 4071
+  },
+  "aime_79": {
+    "predicted_difficulty": 0.008704815059900284,
+    "label": 0,
+    "tokens_greedy": 5122
+  },
+  "aime_80": {
+    "predicted_difficulty": 0.45834898948669434,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_81": {
+    "predicted_difficulty": 0.6229335069656372,
+    "label": 1,
+    "tokens_greedy": 7915
+  },
+  "aime_82": {
+    "predicted_difficulty": 0.39391452074050903,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_83": {
+    "predicted_difficulty": 0.9804872870445251,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_84": {
+    "predicted_difficulty": 0.02508441172540188,
+    "label": 0,
+    "tokens_greedy": 3079
+  },
+  "aime_85": {
+    "predicted_difficulty": 0.9434600472450256,
+    "label": 1,
+    "tokens_greedy": 1285
+  },
+  "aime_86": {
+    "predicted_difficulty": 0.5729793310165405,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_87": {
+    "predicted_difficulty": 0.04019472748041153,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_88": {
+    "predicted_difficulty": 0.9992484450340271,
+    "label": 1,
+    "tokens_greedy": 24576
+  },
+  "aime_89": {
+    "predicted_difficulty": 0.050854332745075226,
+    "label": 1,
+    "tokens_greedy": 24576
+  }
+}

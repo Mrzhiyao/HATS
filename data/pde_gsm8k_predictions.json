@@ -1,0 +1,2502 @@
+{
+  "gsm8k_0": {
+    "predicted_difficulty": 0.13435842096805573,
+    "label": 0,
+    "tokens_greedy": 928
+  },
+  "gsm8k_1": {
+    "predicted_difficulty": 0.6195682883262634,
+    "label": 0,
+    "tokens_greedy": 334
+  },
+  "gsm8k_2": {
+    "predicted_difficulty": 0.2750400900840759,
+    "label": 0,
+    "tokens_greedy": 3810
+  },
+  "gsm8k_3": {
+    "predicted_difficulty": 0.8128464818000793,
+    "label": 1,
+    "tokens_greedy": 354
+  },
+  "gsm8k_4": {
+    "predicted_difficulty": 9.335525101050735e-05,
+    "label": 0,
+    "tokens_greedy": 669
+  },
+  "gsm8k_5": {
+    "predicted_difficulty": 0.005114224273711443,
+    "label": 0,
+    "tokens_greedy": 562
+  },
+  "gsm8k_6": {
+    "predicted_difficulty": 0.005990525707602501,
+    "label": 0,
+    "tokens_greedy": 376
+  },
+  "gsm8k_7": {
+    "predicted_difficulty": 0.6867845058441162,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_8": {
+    "predicted_difficulty": 0.0009551133844070137,
+    "label": 1,
+    "tokens_greedy": 1516
+  },
+  "gsm8k_9": {
+    "predicted_difficulty": 0.19793321192264557,
+    "label": 0,
+    "tokens_greedy": 838
+  },
+  "gsm8k_10": {
+    "predicted_difficulty": 0.02347039058804512,
+    "label": 1,
+    "tokens_greedy": 598
+  },
+  "gsm8k_11": {
+    "predicted_difficulty": 0.07924886792898178,
+    "label": 0,
+    "tokens_greedy": 915
+  },
+  "gsm8k_12": {
+    "predicted_difficulty": 0.6553377509117126,
+    "label": 0,
+    "tokens_greedy": 3403
+  },
+  "gsm8k_13": {
+    "predicted_difficulty": 0.37113380432128906,
+    "label": 0,
+    "tokens_greedy": 1595
+  },
+  "gsm8k_14": {
+    "predicted_difficulty": 0.03238222375512123,
+    "label": 1,
+    "tokens_greedy": 603
+  },
+  "gsm8k_15": {
+    "predicted_difficulty": 0.8286123275756836,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_16": {
+    "predicted_difficulty": 0.11553660035133362,
+    "label": 0,
+    "tokens_greedy": 1630
+  },
+  "gsm8k_17": {
+    "predicted_difficulty": 0.4979058504104614,
+    "label": 0,
+    "tokens_greedy": 502
+  },
+  "gsm8k_18": {
+    "predicted_difficulty": 0.20292304456233978,
+    "label": 0,
+    "tokens_greedy": 371
+  },
+  "gsm8k_19": {
+    "predicted_difficulty": 0.3871239721775055,
+    "label": 0,
+    "tokens_greedy": 841
+  },
+  "gsm8k_20": {
+    "predicted_difficulty": 0.48265719413757324,
+    "label": 0,
+    "tokens_greedy": 2302
+  },
+  "gsm8k_21": {
+    "predicted_difficulty": 0.4843218922615051,
+    "label": 1,
+    "tokens_greedy": 538
+  },
+  "gsm8k_22": {
+    "predicted_difficulty": 0.052855342626571655,
+    "label": 0,
+    "tokens_greedy": 527
+  },
+  "gsm8k_23": {
+    "predicted_difficulty": 0.5828774571418762,
+    "label": 0,
+    "tokens_greedy": 430
+  },
+  "gsm8k_24": {
+    "predicted_difficulty": 0.10992768406867981,
+    "label": 0,
+    "tokens_greedy": 614
+  },
+  "gsm8k_25": {
+    "predicted_difficulty": 0.0032890739385038614,
+    "label": 0,
+    "tokens_greedy": 1249
+  },
+  "gsm8k_26": {
+    "predicted_difficulty": 0.003205119399353862,
+    "label": 0,
+    "tokens_greedy": 1069
+  },
+  "gsm8k_27": {
+    "predicted_difficulty": 0.005586777348071337,
+    "label": 0,
+    "tokens_greedy": 505
+  },
+  "gsm8k_28": {
+    "predicted_difficulty": 0.00016173011681530625,
+    "label": 1,
+    "tokens_greedy": 447
+  },
+  "gsm8k_29": {
+    "predicted_difficulty": 0.017802530899643898,
+    "label": 0,
+    "tokens_greedy": 999
+  },
+  "gsm8k_30": {
+    "predicted_difficulty": 0.5081545114517212,
+    "label": 0,
+    "tokens_greedy": 543
+  },
+  "gsm8k_31": {
+    "predicted_difficulty": 0.0009066875791177154,
+    "label": 0,
+    "tokens_greedy": 646
+  },
+  "gsm8k_32": {
+    "predicted_difficulty": 9.721929927763995e-06,
+    "label": 0,
+    "tokens_greedy": 325
+  },
+  "gsm8k_33": {
+    "predicted_difficulty": 0.012156696058809757,
+    "label": 0,
+    "tokens_greedy": 641
+  },
+  "gsm8k_34": {
+    "predicted_difficulty": 0.23908290266990662,
+    "label": 0,
+    "tokens_greedy": 416
+  },
+  "gsm8k_35": {
+    "predicted_difficulty": 0.4510778486728668,
+    "label": 1,
+    "tokens_greedy": 521
+  },
+  "gsm8k_36": {
+    "predicted_difficulty": 0.37523937225341797,
+    "label": 0,
+    "tokens_greedy": 579
+  },
+  "gsm8k_37": {
+    "predicted_difficulty": 0.05030657351016998,
+    "label": 0,
+    "tokens_greedy": 2108
+  },
+  "gsm8k_38": {
+    "predicted_difficulty": 0.0979611873626709,
+    "label": 0,
+    "tokens_greedy": 1459
+  },
+  "gsm8k_39": {
+    "predicted_difficulty": 0.43436887860298157,
+    "label": 0,
+    "tokens_greedy": 1123
+  },
+  "gsm8k_40": {
+    "predicted_difficulty": 0.0001556658826302737,
+    "label": 0,
+    "tokens_greedy": 1475
+  },
+  "gsm8k_41": {
+    "predicted_difficulty": 0.016050919890403748,
+    "label": 1,
+    "tokens_greedy": 588
+  },
+  "gsm8k_42": {
+    "predicted_difficulty": 0.0007749928627163172,
+    "label": 0,
+    "tokens_greedy": 494
+  },
+  "gsm8k_43": {
+    "predicted_difficulty": 0.5295237302780151,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_44": {
+    "predicted_difficulty": 0.006304176524281502,
+    "label": 1,
+    "tokens_greedy": 1471
+  },
+  "gsm8k_45": {
+    "predicted_difficulty": 0.6358914971351624,
+    "label": 0,
+    "tokens_greedy": 1411
+  },
+  "gsm8k_46": {
+    "predicted_difficulty": 0.10075490921735764,
+    "label": 0,
+    "tokens_greedy": 966
+  },
+  "gsm8k_47": {
+    "predicted_difficulty": 0.009802205488085747,
+    "label": 0,
+    "tokens_greedy": 1928
+  },
+  "gsm8k_48": {
+    "predicted_difficulty": 0.5398644208908081,
+    "label": 0,
+    "tokens_greedy": 336
+  },
+  "gsm8k_49": {
+    "predicted_difficulty": 0.5176287293434143,
+    "label": 0,
+    "tokens_greedy": 485
+  },
+  "gsm8k_50": {
+    "predicted_difficulty": 0.4102715849876404,
+    "label": 1,
+    "tokens_greedy": 1029
+  },
+  "gsm8k_51": {
+    "predicted_difficulty": 0.8921201825141907,
+    "label": 1,
+    "tokens_greedy": 1091
+  },
+  "gsm8k_52": {
+    "predicted_difficulty": 0.44112738966941833,
+    "label": 0,
+    "tokens_greedy": 909
+  },
+  "gsm8k_53": {
+    "predicted_difficulty": 0.6003769040107727,
+    "label": 1,
+    "tokens_greedy": 746
+  },
+  "gsm8k_54": {
+    "predicted_difficulty": 0.5304392576217651,
+    "label": 0,
+    "tokens_greedy": 1451
+  },
+  "gsm8k_55": {
+    "predicted_difficulty": 0.31403544545173645,
+    "label": 0,
+    "tokens_greedy": 744
+  },
+  "gsm8k_56": {
+    "predicted_difficulty": 0.1442500203847885,
+    "label": 1,
+    "tokens_greedy": 1377
+  },
+  "gsm8k_57": {
+    "predicted_difficulty": 0.18030127882957458,
+    "label": 0,
+    "tokens_greedy": 714
+  },
+  "gsm8k_58": {
+    "predicted_difficulty": 0.5029147863388062,
+    "label": 0,
+    "tokens_greedy": 1754
+  },
+  "gsm8k_59": {
+    "predicted_difficulty": 0.021293843165040016,
+    "label": 0,
+    "tokens_greedy": 852
+  },
+  "gsm8k_60": {
+    "predicted_difficulty": 0.05493280664086342,
+    "label": 0,
+    "tokens_greedy": 656
+  },
+  "gsm8k_61": {
+    "predicted_difficulty": 0.028425876051187515,
+    "label": 0,
+    "tokens_greedy": 615
+  },
+  "gsm8k_62": {
+    "predicted_difficulty": 0.014995791018009186,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_63": {
+    "predicted_difficulty": 0.3437274694442749,
+    "label": 1,
+    "tokens_greedy": 1503
+  },
+  "gsm8k_64": {
+    "predicted_difficulty": 0.401250422000885,
+    "label": 0,
+    "tokens_greedy": 841
+  },
+  "gsm8k_65": {
+    "predicted_difficulty": 0.38308003544807434,
+    "label": 0,
+    "tokens_greedy": 724
+  },
+  "gsm8k_66": {
+    "predicted_difficulty": 0.010660615749657154,
+    "label": 0,
+    "tokens_greedy": 1791
+  },
+  "gsm8k_67": {
+    "predicted_difficulty": 0.0003268770524300635,
+    "label": 0,
+    "tokens_greedy": 1029
+  },
+  "gsm8k_68": {
+    "predicted_difficulty": 0.05384808033704758,
+    "label": 0,
+    "tokens_greedy": 527
+  },
+  "gsm8k_69": {
+    "predicted_difficulty": 0.05642080307006836,
+    "label": 0,
+    "tokens_greedy": 549
+  },
+  "gsm8k_70": {
+    "predicted_difficulty": 0.06671444326639175,
+    "label": 1,
+    "tokens_greedy": 629
+  },
+  "gsm8k_71": {
+    "predicted_difficulty": 0.7179250121116638,
+    "label": 0,
+    "tokens_greedy": 296
+  },
+  "gsm8k_72": {
+    "predicted_difficulty": 0.09872596710920334,
+    "label": 0,
+    "tokens_greedy": 675
+  },
+  "gsm8k_73": {
+    "predicted_difficulty": 0.4416190981864929,
+    "label": 0,
+    "tokens_greedy": 745
+  },
+  "gsm8k_74": {
+    "predicted_difficulty": 0.0253960769623518,
+    "label": 0,
+    "tokens_greedy": 1459
+  },
+  "gsm8k_75": {
+    "predicted_difficulty": 0.22038719058036804,
+    "label": 1,
+    "tokens_greedy": 1395
+  },
+  "gsm8k_76": {
+    "predicted_difficulty": 0.1901565045118332,
+    "label": 0,
+    "tokens_greedy": 619
+  },
+  "gsm8k_77": {
+    "predicted_difficulty": 0.09028003364801407,
+    "label": 0,
+    "tokens_greedy": 603
+  },
+  "gsm8k_78": {
+    "predicted_difficulty": 0.26542696356773376,
+    "label": 0,
+    "tokens_greedy": 784
+  },
+  "gsm8k_79": {
+    "predicted_difficulty": 0.28028663992881775,
+    "label": 0,
+    "tokens_greedy": 358
+  },
+  "gsm8k_80": {
+    "predicted_difficulty": 0.507757842540741,
+    "label": 0,
+    "tokens_greedy": 572
+  },
+  "gsm8k_81": {
+    "predicted_difficulty": 0.005513714626431465,
+    "label": 0,
+    "tokens_greedy": 478
+  },
+  "gsm8k_82": {
+    "predicted_difficulty": 0.04480722174048424,
+    "label": 0,
+    "tokens_greedy": 453
+  },
+  "gsm8k_83": {
+    "predicted_difficulty": 0.01207754947245121,
+    "label": 0,
+    "tokens_greedy": 1022
+  },
+  "gsm8k_84": {
+    "predicted_difficulty": 0.1292000710964203,
+    "label": 1,
+    "tokens_greedy": 886
+  },
+  "gsm8k_85": {
+    "predicted_difficulty": 0.5016072392463684,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_86": {
+    "predicted_difficulty": 0.2746691405773163,
+    "label": 0,
+    "tokens_greedy": 1291
+  },
+  "gsm8k_87": {
+    "predicted_difficulty": 0.7372621893882751,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_88": {
+    "predicted_difficulty": 0.5023441910743713,
+    "label": 0,
+    "tokens_greedy": 948
+  },
+  "gsm8k_89": {
+    "predicted_difficulty": 0.02799679897725582,
+    "label": 1,
+    "tokens_greedy": 512
+  },
+  "gsm8k_90": {
+    "predicted_difficulty": 0.41203874349594116,
+    "label": 1,
+    "tokens_greedy": 460
+  },
+  "gsm8k_91": {
+    "predicted_difficulty": 0.5087088942527771,
+    "label": 0,
+    "tokens_greedy": 1205
+  },
+  "gsm8k_92": {
+    "predicted_difficulty": 0.0005323427030816674,
+    "label": 0,
+    "tokens_greedy": 591
+  },
+  "gsm8k_93": {
+    "predicted_difficulty": 0.42616093158721924,
+    "label": 1,
+    "tokens_greedy": 3274
+  },
+  "gsm8k_94": {
+    "predicted_difficulty": 0.0144291240721941,
+    "label": 0,
+    "tokens_greedy": 1283
+  },
+  "gsm8k_95": {
+    "predicted_difficulty": 8.337104372913018e-05,
+    "label": 0,
+    "tokens_greedy": 594
+  },
+  "gsm8k_96": {
+    "predicted_difficulty": 0.04575459659099579,
+    "label": 1,
+    "tokens_greedy": 345
+  },
+  "gsm8k_97": {
+    "predicted_difficulty": 0.18839885294437408,
+    "label": 0,
+    "tokens_greedy": 431
+  },
+  "gsm8k_98": {
+    "predicted_difficulty": 0.06585169583559036,
+    "label": 1,
+    "tokens_greedy": 2048
+  },
+  "gsm8k_99": {
+    "predicted_difficulty": 0.4806079566478729,
+    "label": 1,
+    "tokens_greedy": 514
+  },
+  "gsm8k_100": {
+    "predicted_difficulty": 0.12118298560380936,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_101": {
+    "predicted_difficulty": 0.36432158946990967,
+    "label": 1,
+    "tokens_greedy": 739
+  },
+  "gsm8k_102": {
+    "predicted_difficulty": 0.5964933037757874,
+    "label": 1,
+    "tokens_greedy": 1016
+  },
+  "gsm8k_103": {
+    "predicted_difficulty": 0.5606151819229126,
+    "label": 0,
+    "tokens_greedy": 1273
+  },
+  "gsm8k_104": {
+    "predicted_difficulty": 0.02436661347746849,
+    "label": 0,
+    "tokens_greedy": 1548
+  },
+  "gsm8k_105": {
+    "predicted_difficulty": 0.49246591329574585,
+    "label": 0,
+    "tokens_greedy": 304
+  },
+  "gsm8k_106": {
+    "predicted_difficulty": 0.5767866969108582,
+    "label": 0,
+    "tokens_greedy": 1918
+  },
+  "gsm8k_107": {
+    "predicted_difficulty": 0.048754431307315826,
+    "label": 0,
+    "tokens_greedy": 777
+  },
+  "gsm8k_108": {
+    "predicted_difficulty": 0.0009179443004541099,
+    "label": 0,
+    "tokens_greedy": 649
+  },
+  "gsm8k_109": {
+    "predicted_difficulty": 0.02944226749241352,
+    "label": 0,
+    "tokens_greedy": 1541
+  },
+  "gsm8k_110": {
+    "predicted_difficulty": 0.4084257483482361,
+    "label": 0,
+    "tokens_greedy": 1312
+  },
+  "gsm8k_111": {
+    "predicted_difficulty": 0.17384128272533417,
+    "label": 0,
+    "tokens_greedy": 1877
+  },
+  "gsm8k_112": {
+    "predicted_difficulty": 0.45545753836631775,
+    "label": 0,
+    "tokens_greedy": 826
+  },
+  "gsm8k_113": {
+    "predicted_difficulty": 0.013666600920259953,
+    "label": 1,
+    "tokens_greedy": 895
+  },
+  "gsm8k_114": {
+    "predicted_difficulty": 0.0019825913477689028,
+    "label": 0,
+    "tokens_greedy": 559
+  },
+  "gsm8k_115": {
+    "predicted_difficulty": 0.9316374659538269,
+    "label": 0,
+    "tokens_greedy": 1023
+  },
+  "gsm8k_116": {
+    "predicted_difficulty": 0.007732834201306105,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_117": {
+    "predicted_difficulty": 0.04050451144576073,
+    "label": 0,
+    "tokens_greedy": 296
+  },
+  "gsm8k_118": {
+    "predicted_difficulty": 0.008068300783634186,
+    "label": 0,
+    "tokens_greedy": 1025
+  },
+  "gsm8k_119": {
+    "predicted_difficulty": 0.04404844716191292,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_120": {
+    "predicted_difficulty": 0.6509607434272766,
+    "label": 1,
+    "tokens_greedy": 657
+  },
+  "gsm8k_121": {
+    "predicted_difficulty": 0.3232976198196411,
+    "label": 1,
+    "tokens_greedy": 573
+  },
+  "gsm8k_122": {
+    "predicted_difficulty": 0.30786439776420593,
+    "label": 1,
+    "tokens_greedy": 517
+  },
+  "gsm8k_123": {
+    "predicted_difficulty": 0.2147311419248581,
+    "label": 0,
+    "tokens_greedy": 628
+  },
+  "gsm8k_124": {
+    "predicted_difficulty": 0.12753798067569733,
+    "label": 0,
+    "tokens_greedy": 1062
+  },
+  "gsm8k_125": {
+    "predicted_difficulty": 0.030312512069940567,
+    "label": 0,
+    "tokens_greedy": 738
+  },
+  "gsm8k_126": {
+    "predicted_difficulty": 0.000285626039840281,
+    "label": 0,
+    "tokens_greedy": 355
+  },
+  "gsm8k_127": {
+    "predicted_difficulty": 0.04390754923224449,
+    "label": 0,
+    "tokens_greedy": 530
+  },
+  "gsm8k_128": {
+    "predicted_difficulty": 4.528360022959532e-06,
+    "label": 0,
+    "tokens_greedy": 518
+  },
+  "gsm8k_129": {
+    "predicted_difficulty": 0.7956988215446472,
+    "label": 0,
+    "tokens_greedy": 2938
+  },
+  "gsm8k_130": {
+    "predicted_difficulty": 0.475335955619812,
+    "label": 0,
+    "tokens_greedy": 866
+  },
+  "gsm8k_131": {
+    "predicted_difficulty": 0.33120065927505493,
+    "label": 0,
+    "tokens_greedy": 379
+  },
+  "gsm8k_132": {
+    "predicted_difficulty": 0.15306714177131653,
+    "label": 0,
+    "tokens_greedy": 510
+  },
+  "gsm8k_133": {
+    "predicted_difficulty": 0.00042425785795785487,
+    "label": 0,
+    "tokens_greedy": 553
+  },
+  "gsm8k_134": {
+    "predicted_difficulty": 0.5991532206535339,
+    "label": 0,
+    "tokens_greedy": 363
+  },
+  "gsm8k_135": {
+    "predicted_difficulty": 0.00014128776092547923,
+    "label": 0,
+    "tokens_greedy": 638
+  },
+  "gsm8k_136": {
+    "predicted_difficulty": 5.20801440870855e-05,
+    "label": 0,
+    "tokens_greedy": 383
+  },
+  "gsm8k_137": {
+    "predicted_difficulty": 0.0005152691155672073,
+    "label": 0,
+    "tokens_greedy": 3576
+  },
+  "gsm8k_138": {
+    "predicted_difficulty": 0.059268396347761154,
+    "label": 0,
+    "tokens_greedy": 1890
+  },
+  "gsm8k_139": {
+    "predicted_difficulty": 0.021636903285980225,
+    "label": 0,
+    "tokens_greedy": 477
+  },
+  "gsm8k_140": {
+    "predicted_difficulty": 0.07057157158851624,
+    "label": 1,
+    "tokens_greedy": 557
+  },
+  "gsm8k_141": {
+    "predicted_difficulty": 0.007780476938933134,
+    "label": 0,
+    "tokens_greedy": 751
+  },
+  "gsm8k_142": {
+    "predicted_difficulty": 0.9657210111618042,
+    "label": 0,
+    "tokens_greedy": 1907
+  },
+  "gsm8k_143": {
+    "predicted_difficulty": 0.04099925234913826,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_144": {
+    "predicted_difficulty": 0.006568189710378647,
+    "label": 0,
+    "tokens_greedy": 680
+  },
+  "gsm8k_145": {
+    "predicted_difficulty": 0.6129110455513,
+    "label": 0,
+    "tokens_greedy": 1137
+  },
+  "gsm8k_146": {
+    "predicted_difficulty": 0.014682999812066555,
+    "label": 0,
+    "tokens_greedy": 3218
+  },
+  "gsm8k_147": {
+    "predicted_difficulty": 0.10098956525325775,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_148": {
+    "predicted_difficulty": 0.020898323506116867,
+    "label": 0,
+    "tokens_greedy": 848
+  },
+  "gsm8k_149": {
+    "predicted_difficulty": 0.4273892343044281,
+    "label": 0,
+    "tokens_greedy": 463
+  },
+  "gsm8k_150": {
+    "predicted_difficulty": 0.391853928565979,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_151": {
+    "predicted_difficulty": 0.3998967111110687,
+    "label": 0,
+    "tokens_greedy": 505
+  },
+  "gsm8k_152": {
+    "predicted_difficulty": 0.05733398720622063,
+    "label": 0,
+    "tokens_greedy": 1172
+  },
+  "gsm8k_153": {
+    "predicted_difficulty": 7.483959052478895e-05,
+    "label": 0,
+    "tokens_greedy": 944
+  },
+  "gsm8k_154": {
+    "predicted_difficulty": 0.09343067556619644,
+    "label": 0,
+    "tokens_greedy": 1440
+  },
+  "gsm8k_155": {
+    "predicted_difficulty": 0.1099543496966362,
+    "label": 0,
+    "tokens_greedy": 1599
+  },
+  "gsm8k_156": {
+    "predicted_difficulty": 0.009908667765557766,
+    "label": 0,
+    "tokens_greedy": 495
+  },
+  "gsm8k_157": {
+    "predicted_difficulty": 0.922349750995636,
+    "label": 0,
+    "tokens_greedy": 2552
+  },
+  "gsm8k_158": {
+    "predicted_difficulty": 0.00843906868249178,
+    "label": 0,
+    "tokens_greedy": 661
+  },
+  "gsm8k_159": {
+    "predicted_difficulty": 0.003548719920217991,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_160": {
+    "predicted_difficulty": 0.4599902331829071,
+    "label": 0,
+    "tokens_greedy": 1017
+  },
+  "gsm8k_161": {
+    "predicted_difficulty": 0.4844450056552887,
+    "label": 0,
+    "tokens_greedy": 1221
+  },
+  "gsm8k_162": {
+    "predicted_difficulty": 0.1609794795513153,
+    "label": 0,
+    "tokens_greedy": 827
+  },
+  "gsm8k_163": {
+    "predicted_difficulty": 0.005836824886500835,
+    "label": 0,
+    "tokens_greedy": 1216
+  },
+  "gsm8k_164": {
+    "predicted_difficulty": 0.1389148235321045,
+    "label": 0,
+    "tokens_greedy": 1585
+  },
+  "gsm8k_165": {
+    "predicted_difficulty": 0.3082320988178253,
+    "label": 0,
+    "tokens_greedy": 1585
+  },
+  "gsm8k_166": {
+    "predicted_difficulty": 0.43431994318962097,
+    "label": 1,
+    "tokens_greedy": 377
+  },
+  "gsm8k_167": {
+    "predicted_difficulty": 0.010020900517702103,
+    "label": 0,
+    "tokens_greedy": 693
+  },
+  "gsm8k_168": {
+    "predicted_difficulty": 0.00035990693140774965,
+    "label": 0,
+    "tokens_greedy": 644
+  },
+  "gsm8k_169": {
+    "predicted_difficulty": 0.5738379955291748,
+    "label": 0,
+    "tokens_greedy": 1359
+  },
+  "gsm8k_170": {
+    "predicted_difficulty": 0.4785551130771637,
+    "label": 0,
+    "tokens_greedy": 615
+  },
+  "gsm8k_171": {
+    "predicted_difficulty": 3.439899955992587e-06,
+    "label": 0,
+    "tokens_greedy": 642
+  },
+  "gsm8k_172": {
+    "predicted_difficulty": 0.4398857057094574,
+    "label": 0,
+    "tokens_greedy": 919
+  },
+  "gsm8k_173": {
+    "predicted_difficulty": 0.1859797239303589,
+    "label": 0,
+    "tokens_greedy": 725
+  },
+  "gsm8k_174": {
+    "predicted_difficulty": 0.7116342186927795,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_175": {
+    "predicted_difficulty": 0.0003158840991090983,
+    "label": 0,
+    "tokens_greedy": 968
+  },
+  "gsm8k_176": {
+    "predicted_difficulty": 0.02719663269817829,
+    "label": 1,
+    "tokens_greedy": 998
+  },
+  "gsm8k_177": {
+    "predicted_difficulty": 0.11811225116252899,
+    "label": 0,
+    "tokens_greedy": 1661
+  },
+  "gsm8k_178": {
+    "predicted_difficulty": 0.020741263404488564,
+    "label": 1,
+    "tokens_greedy": 1624
+  },
+  "gsm8k_179": {
+    "predicted_difficulty": 0.07083989679813385,
+    "label": 0,
+    "tokens_greedy": 275
+  },
+  "gsm8k_180": {
+    "predicted_difficulty": 0.8545377850532532,
+    "label": 0,
+    "tokens_greedy": 630
+  },
+  "gsm8k_181": {
+    "predicted_difficulty": 0.010398347862064838,
+    "label": 0,
+    "tokens_greedy": 754
+  },
+  "gsm8k_182": {
+    "predicted_difficulty": 0.017498068511486053,
+    "label": 0,
+    "tokens_greedy": 2047
+  },
+  "gsm8k_183": {
+    "predicted_difficulty": 0.8870203495025635,
+    "label": 1,
+    "tokens_greedy": 559
+  },
+  "gsm8k_184": {
+    "predicted_difficulty": 0.29430386424064636,
+    "label": 1,
+    "tokens_greedy": 1524
+  },
+  "gsm8k_185": {
+    "predicted_difficulty": 0.06793227046728134,
+    "label": 0,
+    "tokens_greedy": 368
+  },
+  "gsm8k_186": {
+    "predicted_difficulty": 0.00015656706818845123,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_187": {
+    "predicted_difficulty": 0.5525827407836914,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_188": {
+    "predicted_difficulty": 0.5939810872077942,
+    "label": 1,
+    "tokens_greedy": 1563
+  },
+  "gsm8k_189": {
+    "predicted_difficulty": 0.6618291139602661,
+    "label": 1,
+    "tokens_greedy": 669
+  },
+  "gsm8k_190": {
+    "predicted_difficulty": 0.41363847255706787,
+    "label": 0,
+    "tokens_greedy": 333
+  },
+  "gsm8k_191": {
+    "predicted_difficulty": 0.5511913895606995,
+    "label": 0,
+    "tokens_greedy": 1210
+  },
+  "gsm8k_192": {
+    "predicted_difficulty": 0.12592431902885437,
+    "label": 1,
+    "tokens_greedy": 509
+  },
+  "gsm8k_193": {
+    "predicted_difficulty": 0.10493040829896927,
+    "label": 0,
+    "tokens_greedy": 1002
+  },
+  "gsm8k_194": {
+    "predicted_difficulty": 0.08847037702798843,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_195": {
+    "predicted_difficulty": 0.30085819959640503,
+    "label": 0,
+    "tokens_greedy": 611
+  },
+  "gsm8k_196": {
+    "predicted_difficulty": 0.24262461066246033,
+    "label": 1,
+    "tokens_greedy": 324
+  },
+  "gsm8k_197": {
+    "predicted_difficulty": 0.00020174762175884098,
+    "label": 1,
+    "tokens_greedy": 1350
+  },
+  "gsm8k_198": {
+    "predicted_difficulty": 0.010685482993721962,
+    "label": 0,
+    "tokens_greedy": 553
+  },
+  "gsm8k_199": {
+    "predicted_difficulty": 0.1307426244020462,
+    "label": 0,
+    "tokens_greedy": 937
+  },
+  "gsm8k_200": {
+    "predicted_difficulty": 0.11043023318052292,
+    "label": 0,
+    "tokens_greedy": 281
+  },
+  "gsm8k_201": {
+    "predicted_difficulty": 0.6940144300460815,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_202": {
+    "predicted_difficulty": 0.2453407347202301,
+    "label": 0,
+    "tokens_greedy": 343
+  },
+  "gsm8k_203": {
+    "predicted_difficulty": 0.0023604286834597588,
+    "label": 1,
+    "tokens_greedy": 967
+  },
+  "gsm8k_204": {
+    "predicted_difficulty": 0.022983873263001442,
+    "label": 0,
+    "tokens_greedy": 472
+  },
+  "gsm8k_205": {
+    "predicted_difficulty": 0.6075218915939331,
+    "label": 0,
+    "tokens_greedy": 1569
+  },
+  "gsm8k_206": {
+    "predicted_difficulty": 0.6500537395477295,
+    "label": 0,
+    "tokens_greedy": 3178
+  },
+  "gsm8k_207": {
+    "predicted_difficulty": 0.005331443622708321,
+    "label": 1,
+    "tokens_greedy": 700
+  },
+  "gsm8k_208": {
+    "predicted_difficulty": 0.0022246120497584343,
+    "label": 0,
+    "tokens_greedy": 787
+  },
+  "gsm8k_209": {
+    "predicted_difficulty": 0.7124430537223816,
+    "label": 0,
+    "tokens_greedy": 781
+  },
+  "gsm8k_210": {
+    "predicted_difficulty": 0.011108736507594585,
+    "label": 1,
+    "tokens_greedy": 1155
+  },
+  "gsm8k_211": {
+    "predicted_difficulty": 0.038332946598529816,
+    "label": 0,
+    "tokens_greedy": 1426
+  },
+  "gsm8k_212": {
+    "predicted_difficulty": 0.6469157338142395,
+    "label": 1,
+    "tokens_greedy": 1168
+  },
+  "gsm8k_213": {
+    "predicted_difficulty": 0.003467267146334052,
+    "label": 0,
+    "tokens_greedy": 1542
+  },
+  "gsm8k_214": {
+    "predicted_difficulty": 0.48904621601104736,
+    "label": 0,
+    "tokens_greedy": 969
+  },
+  "gsm8k_215": {
+    "predicted_difficulty": 0.007003566715866327,
+    "label": 1,
+    "tokens_greedy": 2558
+  },
+  "gsm8k_216": {
+    "predicted_difficulty": 0.6312981843948364,
+    "label": 0,
+    "tokens_greedy": 551
+  },
+  "gsm8k_217": {
+    "predicted_difficulty": 0.29817917943000793,
+    "label": 0,
+    "tokens_greedy": 767
+  },
+  "gsm8k_218": {
+    "predicted_difficulty": 0.0001784347405191511,
+    "label": 0,
+    "tokens_greedy": 588
+  },
+  "gsm8k_219": {
+    "predicted_difficulty": 0.02020133286714554,
+    "label": 0,
+    "tokens_greedy": 1213
+  },
+  "gsm8k_220": {
+    "predicted_difficulty": 0.10165861994028091,
+    "label": 0,
+    "tokens_greedy": 1094
+  },
+  "gsm8k_221": {
+    "predicted_difficulty": 0.044626425951719284,
+    "label": 0,
+    "tokens_greedy": 738
+  },
+  "gsm8k_222": {
+    "predicted_difficulty": 0.0004326089983806014,
+    "label": 0,
+    "tokens_greedy": 775
+  },
+  "gsm8k_223": {
+    "predicted_difficulty": 0.050072163343429565,
+    "label": 1,
+    "tokens_greedy": 360
+  },
+  "gsm8k_224": {
+    "predicted_difficulty": 0.04782211780548096,
+    "label": 1,
+    "tokens_greedy": 491
+  },
+  "gsm8k_225": {
+    "predicted_difficulty": 0.24563539028167725,
+    "label": 0,
+    "tokens_greedy": 326
+  },
+  "gsm8k_226": {
+    "predicted_difficulty": 7.601652760058641e-05,
+    "label": 1,
+    "tokens_greedy": 681
+  },
+  "gsm8k_227": {
+    "predicted_difficulty": 0.08341684937477112,
+    "label": 0,
+    "tokens_greedy": 1068
+  },
+  "gsm8k_228": {
+    "predicted_difficulty": 0.36599600315093994,
+    "label": 0,
+    "tokens_greedy": 1443
+  },
+  "gsm8k_229": {
+    "predicted_difficulty": 0.6504594087600708,
+    "label": 0,
+    "tokens_greedy": 411
+  },
+  "gsm8k_230": {
+    "predicted_difficulty": 0.02121402509510517,
+    "label": 0,
+    "tokens_greedy": 1430
+  },
+  "gsm8k_231": {
+    "predicted_difficulty": 0.0016107714036479592,
+    "label": 1,
+    "tokens_greedy": 1155
+  },
+  "gsm8k_232": {
+    "predicted_difficulty": 0.008270972408354282,
+    "label": 0,
+    "tokens_greedy": 417
+  },
+  "gsm8k_233": {
+    "predicted_difficulty": 0.005228308495134115,
+    "label": 0,
+    "tokens_greedy": 542
+  },
+  "gsm8k_234": {
+    "predicted_difficulty": 0.31580105423927307,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_235": {
+    "predicted_difficulty": 0.5194820761680603,
+    "label": 0,
+    "tokens_greedy": 509
+  },
+  "gsm8k_236": {
+    "predicted_difficulty": 0.4646565318107605,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_237": {
+    "predicted_difficulty": 0.07814144343137741,
+    "label": 0,
+    "tokens_greedy": 391
+  },
+  "gsm8k_238": {
+    "predicted_difficulty": 0.1896289587020874,
+    "label": 1,
+    "tokens_greedy": 556
+  },
+  "gsm8k_239": {
+    "predicted_difficulty": 0.4043729305267334,
+    "label": 1,
+    "tokens_greedy": 2671
+  },
+  "gsm8k_240": {
+    "predicted_difficulty": 0.00033647799864411354,
+    "label": 0,
+    "tokens_greedy": 1121
+  },
+  "gsm8k_241": {
+    "predicted_difficulty": 0.6805106997489929,
+    "label": 1,
+    "tokens_greedy": 1718
+  },
+  "gsm8k_242": {
+    "predicted_difficulty": 0.7751181721687317,
+    "label": 1,
+    "tokens_greedy": 1947
+  },
+  "gsm8k_243": {
+    "predicted_difficulty": 0.4933195114135742,
+    "label": 0,
+    "tokens_greedy": 727
+  },
+  "gsm8k_244": {
+    "predicted_difficulty": 0.021414384245872498,
+    "label": 0,
+    "tokens_greedy": 1175
+  },
+  "gsm8k_245": {
+    "predicted_difficulty": 0.09375100582838058,
+    "label": 0,
+    "tokens_greedy": 876
+  },
+  "gsm8k_246": {
+    "predicted_difficulty": 0.06741461902856827,
+    "label": 0,
+    "tokens_greedy": 919
+  },
+  "gsm8k_247": {
+    "predicted_difficulty": 0.8535119891166687,
+    "label": 1,
+    "tokens_greedy": 406
+  },
+  "gsm8k_248": {
+    "predicted_difficulty": 0.023555196821689606,
+    "label": 1,
+    "tokens_greedy": 526
+  },
+  "gsm8k_249": {
+    "predicted_difficulty": 0.07490834593772888,
+    "label": 1,
+    "tokens_greedy": 850
+  },
+  "gsm8k_250": {
+    "predicted_difficulty": 0.0364777073264122,
+    "label": 0,
+    "tokens_greedy": 819
+  },
+  "gsm8k_251": {
+    "predicted_difficulty": 0.41008296608924866,
+    "label": 0,
+    "tokens_greedy": 201
+  },
+  "gsm8k_252": {
+    "predicted_difficulty": 0.4824608266353607,
+    "label": 0,
+    "tokens_greedy": 1054
+  },
+  "gsm8k_253": {
+    "predicted_difficulty": 0.6835387945175171,
+    "label": 0,
+    "tokens_greedy": 676
+  },
+  "gsm8k_254": {
+    "predicted_difficulty": 0.00022230208560358733,
+    "label": 1,
+    "tokens_greedy": 2054
+  },
+  "gsm8k_255": {
+    "predicted_difficulty": 0.030053013935685158,
+    "label": 1,
+    "tokens_greedy": 551
+  },
+  "gsm8k_256": {
+    "predicted_difficulty": 4.305053607822629e-06,
+    "label": 0,
+    "tokens_greedy": 1516
+  },
+  "gsm8k_257": {
+    "predicted_difficulty": 0.6347140669822693,
+    "label": 0,
+    "tokens_greedy": 1514
+  },
+  "gsm8k_258": {
+    "predicted_difficulty": 0.00011666164209600538,
+    "label": 0,
+    "tokens_greedy": 811
+  },
+  "gsm8k_259": {
+    "predicted_difficulty": 0.324391633272171,
+    "label": 0,
+    "tokens_greedy": 938
+  },
+  "gsm8k_260": {
+    "predicted_difficulty": 0.912257194519043,
+    "label": 0,
+    "tokens_greedy": 449
+  },
+  "gsm8k_261": {
+    "predicted_difficulty": 0.010855169035494328,
+    "label": 0,
+    "tokens_greedy": 949
+  },
+  "gsm8k_262": {
+    "predicted_difficulty": 0.10901540517807007,
+    "label": 0,
+    "tokens_greedy": 434
+  },
+  "gsm8k_263": {
+    "predicted_difficulty": 0.41597944498062134,
+    "label": 0,
+    "tokens_greedy": 1318
+  },
+  "gsm8k_264": {
+    "predicted_difficulty": 0.49813729524612427,
+    "label": 0,
+    "tokens_greedy": 974
+  },
+  "gsm8k_265": {
+    "predicted_difficulty": 0.00040313517092727125,
+    "label": 0,
+    "tokens_greedy": 1763
+  },
+  "gsm8k_266": {
+    "predicted_difficulty": 0.055726807564496994,
+    "label": 0,
+    "tokens_greedy": 2086
+  },
+  "gsm8k_267": {
+    "predicted_difficulty": 0.9376527070999146,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_268": {
+    "predicted_difficulty": 0.1604844480752945,
+    "label": 0,
+    "tokens_greedy": 756
+  },
+  "gsm8k_269": {
+    "predicted_difficulty": 0.4363555312156677,
+    "label": 0,
+    "tokens_greedy": 417
+  },
+  "gsm8k_270": {
+    "predicted_difficulty": 0.3497811257839203,
+    "label": 0,
+    "tokens_greedy": 982
+  },
+  "gsm8k_271": {
+    "predicted_difficulty": 0.298846572637558,
+    "label": 0,
+    "tokens_greedy": 469
+  },
+  "gsm8k_272": {
+    "predicted_difficulty": 0.09830192476511002,
+    "label": 0,
+    "tokens_greedy": 552
+  },
+  "gsm8k_273": {
+    "predicted_difficulty": 0.7397482991218567,
+    "label": 0,
+    "tokens_greedy": 1569
+  },
+  "gsm8k_274": {
+    "predicted_difficulty": 0.3877989649772644,
+    "label": 0,
+    "tokens_greedy": 1472
+  },
+  "gsm8k_275": {
+    "predicted_difficulty": 0.000633610412478447,
+    "label": 0,
+    "tokens_greedy": 2016
+  },
+  "gsm8k_276": {
+    "predicted_difficulty": 0.46336162090301514,
+    "label": 0,
+    "tokens_greedy": 720
+  },
+  "gsm8k_277": {
+    "predicted_difficulty": 0.1385159194469452,
+    "label": 1,
+    "tokens_greedy": 483
+  },
+  "gsm8k_278": {
+    "predicted_difficulty": 0.2059057354927063,
+    "label": 1,
+    "tokens_greedy": 3060
+  },
+  "gsm8k_279": {
+    "predicted_difficulty": 0.00014534094952978194,
+    "label": 0,
+    "tokens_greedy": 1180
+  },
+  "gsm8k_280": {
+    "predicted_difficulty": 0.0181196928024292,
+    "label": 0,
+    "tokens_greedy": 344
+  },
+  "gsm8k_281": {
+    "predicted_difficulty": 0.05872315913438797,
+    "label": 0,
+    "tokens_greedy": 1290
+  },
+  "gsm8k_282": {
+    "predicted_difficulty": 0.08847221732139587,
+    "label": 0,
+    "tokens_greedy": 588
+  },
+  "gsm8k_283": {
+    "predicted_difficulty": 0.000954406161326915,
+    "label": 0,
+    "tokens_greedy": 572
+  },
+  "gsm8k_284": {
+    "predicted_difficulty": 0.6080672144889832,
+    "label": 1,
+    "tokens_greedy": 1300
+  },
+  "gsm8k_285": {
+    "predicted_difficulty": 0.0016800793819129467,
+    "label": 0,
+    "tokens_greedy": 464
+  },
+  "gsm8k_286": {
+    "predicted_difficulty": 0.020566191524267197,
+    "label": 0,
+    "tokens_greedy": 648
+  },
+  "gsm8k_287": {
+    "predicted_difficulty": 0.02259400114417076,
+    "label": 0,
+    "tokens_greedy": 546
+  },
+  "gsm8k_288": {
+    "predicted_difficulty": 0.5196146368980408,
+    "label": 0,
+    "tokens_greedy": 497
+  },
+  "gsm8k_289": {
+    "predicted_difficulty": 0.3381395936012268,
+    "label": 1,
+    "tokens_greedy": 1173
+  },
+  "gsm8k_290": {
+    "predicted_difficulty": 0.04692232608795166,
+    "label": 0,
+    "tokens_greedy": 766
+  },
+  "gsm8k_291": {
+    "predicted_difficulty": 0.9536417722702026,
+    "label": 0,
+    "tokens_greedy": 524
+  },
+  "gsm8k_292": {
+    "predicted_difficulty": 0.5929985642433167,
+    "label": 0,
+    "tokens_greedy": 708
+  },
+  "gsm8k_293": {
+    "predicted_difficulty": 0.6483710408210754,
+    "label": 0,
+    "tokens_greedy": 1296
+  },
+  "gsm8k_294": {
+    "predicted_difficulty": 0.031927138566970825,
+    "label": 0,
+    "tokens_greedy": 479
+  },
+  "gsm8k_295": {
+    "predicted_difficulty": 0.5688751339912415,
+    "label": 0,
+    "tokens_greedy": 497
+  },
+  "gsm8k_296": {
+    "predicted_difficulty": 0.6423314213752747,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_297": {
+    "predicted_difficulty": 0.5964808464050293,
+    "label": 0,
+    "tokens_greedy": 1450
+  },
+  "gsm8k_298": {
+    "predicted_difficulty": 0.06042109802365303,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_299": {
+    "predicted_difficulty": 0.035407137125730515,
+    "label": 0,
+    "tokens_greedy": 1421
+  },
+  "gsm8k_300": {
+    "predicted_difficulty": 0.5186233520507812,
+    "label": 0,
+    "tokens_greedy": 341
+  },
+  "gsm8k_301": {
+    "predicted_difficulty": 0.8159877061843872,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_302": {
+    "predicted_difficulty": 0.007426140364259481,
+    "label": 0,
+    "tokens_greedy": 373
+  },
+  "gsm8k_303": {
+    "predicted_difficulty": 0.6431437134742737,
+    "label": 0,
+    "tokens_greedy": 810
+  },
+  "gsm8k_304": {
+    "predicted_difficulty": 0.19420850276947021,
+    "label": 1,
+    "tokens_greedy": 912
+  },
+  "gsm8k_305": {
+    "predicted_difficulty": 0.2979055941104889,
+    "label": 0,
+    "tokens_greedy": 450
+  },
+  "gsm8k_306": {
+    "predicted_difficulty": 0.49894964694976807,
+    "label": 1,
+    "tokens_greedy": 489
+  },
+  "gsm8k_307": {
+    "predicted_difficulty": 0.5381596684455872,
+    "label": 0,
+    "tokens_greedy": 1096
+  },
+  "gsm8k_308": {
+    "predicted_difficulty": 0.3718728721141815,
+    "label": 1,
+    "tokens_greedy": 596
+  },
+  "gsm8k_309": {
+    "predicted_difficulty": 0.5529614090919495,
+    "label": 0,
+    "tokens_greedy": 820
+  },
+  "gsm8k_310": {
+    "predicted_difficulty": 0.02578381635248661,
+    "label": 0,
+    "tokens_greedy": 777
+  },
+  "gsm8k_311": {
+    "predicted_difficulty": 0.3051859438419342,
+    "label": 0,
+    "tokens_greedy": 581
+  },
+  "gsm8k_312": {
+    "predicted_difficulty": 0.029497627168893814,
+    "label": 0,
+    "tokens_greedy": 371
+  },
+  "gsm8k_313": {
+    "predicted_difficulty": 0.4971346855163574,
+    "label": 0,
+    "tokens_greedy": 902
+  },
+  "gsm8k_314": {
+    "predicted_difficulty": 0.15628103911876678,
+    "label": 0,
+    "tokens_greedy": 1209
+  },
+  "gsm8k_315": {
+    "predicted_difficulty": 0.5359492897987366,
+    "label": 0,
+    "tokens_greedy": 3412
+  },
+  "gsm8k_316": {
+    "predicted_difficulty": 0.16082699596881866,
+    "label": 0,
+    "tokens_greedy": 2531
+  },
+  "gsm8k_317": {
+    "predicted_difficulty": 0.09634128212928772,
+    "label": 0,
+    "tokens_greedy": 792
+  },
+  "gsm8k_318": {
+    "predicted_difficulty": 0.0018330335151404142,
+    "label": 0,
+    "tokens_greedy": 1014
+  },
+  "gsm8k_319": {
+    "predicted_difficulty": 0.6914404034614563,
+    "label": 1,
+    "tokens_greedy": 1133
+  },
+  "gsm8k_320": {
+    "predicted_difficulty": 0.2240094691514969,
+    "label": 0,
+    "tokens_greedy": 437
+  },
+  "gsm8k_321": {
+    "predicted_difficulty": 0.07497052103281021,
+    "label": 0,
+    "tokens_greedy": 268
+  },
+  "gsm8k_322": {
+    "predicted_difficulty": 0.002887909533455968,
+    "label": 1,
+    "tokens_greedy": 581
+  },
+  "gsm8k_323": {
+    "predicted_difficulty": 0.21994511783123016,
+    "label": 0,
+    "tokens_greedy": 1520
+  },
+  "gsm8k_324": {
+    "predicted_difficulty": 0.08512004464864731,
+    "label": 0,
+    "tokens_greedy": 1444
+  },
+  "gsm8k_325": {
+    "predicted_difficulty": 0.8015924692153931,
+    "label": 1,
+    "tokens_greedy": 624
+  },
+  "gsm8k_326": {
+    "predicted_difficulty": 0.0005517624667845666,
+    "label": 0,
+    "tokens_greedy": 875
+  },
+  "gsm8k_327": {
+    "predicted_difficulty": 2.0493867850746028e-05,
+    "label": 0,
+    "tokens_greedy": 761
+  },
+  "gsm8k_328": {
+    "predicted_difficulty": 0.7260279655456543,
+    "label": 1,
+    "tokens_greedy": 552
+  },
+  "gsm8k_329": {
+    "predicted_difficulty": 0.013460971415042877,
+    "label": 0,
+    "tokens_greedy": 431
+  },
+  "gsm8k_330": {
+    "predicted_difficulty": 0.5293608903884888,
+    "label": 0,
+    "tokens_greedy": 777
+  },
+  "gsm8k_331": {
+    "predicted_difficulty": 0.9682642817497253,
+    "label": 1,
+    "tokens_greedy": 1835
+  },
+  "gsm8k_332": {
+    "predicted_difficulty": 0.004274238832294941,
+    "label": 0,
+    "tokens_greedy": 358
+  },
+  "gsm8k_333": {
+    "predicted_difficulty": 0.5008401870727539,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_334": {
+    "predicted_difficulty": 0.47280368208885193,
+    "label": 1,
+    "tokens_greedy": 520
+  },
+  "gsm8k_335": {
+    "predicted_difficulty": 0.010012625716626644,
+    "label": 0,
+    "tokens_greedy": 802
+  },
+  "gsm8k_336": {
+    "predicted_difficulty": 0.279548317193985,
+    "label": 0,
+    "tokens_greedy": 1666
+  },
+  "gsm8k_337": {
+    "predicted_difficulty": 0.04845178499817848,
+    "label": 0,
+    "tokens_greedy": 937
+  },
+  "gsm8k_338": {
+    "predicted_difficulty": 0.038019150495529175,
+    "label": 0,
+    "tokens_greedy": 1213
+  },
+  "gsm8k_339": {
+    "predicted_difficulty": 0.35128873586654663,
+    "label": 0,
+    "tokens_greedy": 1252
+  },
+  "gsm8k_340": {
+    "predicted_difficulty": 0.03549681976437569,
+    "label": 0,
+    "tokens_greedy": 1193
+  },
+  "gsm8k_341": {
+    "predicted_difficulty": 0.13894271850585938,
+    "label": 0,
+    "tokens_greedy": 908
+  },
+  "gsm8k_342": {
+    "predicted_difficulty": 0.019092250615358353,
+    "label": 0,
+    "tokens_greedy": 487
+  },
+  "gsm8k_343": {
+    "predicted_difficulty": 0.6499613523483276,
+    "label": 0,
+    "tokens_greedy": 887
+  },
+  "gsm8k_344": {
+    "predicted_difficulty": 0.4741726815700531,
+    "label": 1,
+    "tokens_greedy": 384
+  },
+  "gsm8k_345": {
+    "predicted_difficulty": 0.632305383682251,
+    "label": 0,
+    "tokens_greedy": 880
+  },
+  "gsm8k_346": {
+    "predicted_difficulty": 0.11948565393686295,
+    "label": 0,
+    "tokens_greedy": 561
+  },
+  "gsm8k_347": {
+    "predicted_difficulty": 0.2041703760623932,
+    "label": 0,
+    "tokens_greedy": 538
+  },
+  "gsm8k_348": {
+    "predicted_difficulty": 0.5669256448745728,
+    "label": 1,
+    "tokens_greedy": 706
+  },
+  "gsm8k_349": {
+    "predicted_difficulty": 0.308540403842926,
+    "label": 0,
+    "tokens_greedy": 687
+  },
+  "gsm8k_350": {
+    "predicted_difficulty": 0.5110133290290833,
+    "label": 0,
+    "tokens_greedy": 552
+  },
+  "gsm8k_351": {
+    "predicted_difficulty": 0.019450413063168526,
+    "label": 0,
+    "tokens_greedy": 447
+  },
+  "gsm8k_352": {
+    "predicted_difficulty": 0.08179915696382523,
+    "label": 0,
+    "tokens_greedy": 683
+  },
+  "gsm8k_353": {
+    "predicted_difficulty": 0.10832372307777405,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_354": {
+    "predicted_difficulty": 0.030434537678956985,
+    "label": 0,
+    "tokens_greedy": 679
+  },
+  "gsm8k_355": {
+    "predicted_difficulty": 0.04432849958539009,
+    "label": 0,
+    "tokens_greedy": 1147
+  },
+  "gsm8k_356": {
+    "predicted_difficulty": 0.02023749053478241,
+    "label": 0,
+    "tokens_greedy": 862
+  },
+  "gsm8k_357": {
+    "predicted_difficulty": 0.9660224914550781,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_358": {
+    "predicted_difficulty": 0.3081311583518982,
+    "label": 0,
+    "tokens_greedy": 633
+  },
+  "gsm8k_359": {
+    "predicted_difficulty": 0.5181387662887573,
+    "label": 0,
+    "tokens_greedy": 640
+  },
+  "gsm8k_360": {
+    "predicted_difficulty": 0.030924104154109955,
+    "label": 0,
+    "tokens_greedy": 560
+  },
+  "gsm8k_361": {
+    "predicted_difficulty": 0.4989766478538513,
+    "label": 0,
+    "tokens_greedy": 1580
+  },
+  "gsm8k_362": {
+    "predicted_difficulty": 0.1674300730228424,
+    "label": 0,
+    "tokens_greedy": 898
+  },
+  "gsm8k_363": {
+    "predicted_difficulty": 0.7399523854255676,
+    "label": 0,
+    "tokens_greedy": 2981
+  },
+  "gsm8k_364": {
+    "predicted_difficulty": 0.016592197120189667,
+    "label": 0,
+    "tokens_greedy": 425
+  },
+  "gsm8k_365": {
+    "predicted_difficulty": 0.005589289125055075,
+    "label": 0,
+    "tokens_greedy": 302
+  },
+  "gsm8k_366": {
+    "predicted_difficulty": 0.6324031949043274,
+    "label": 0,
+    "tokens_greedy": 363
+  },
+  "gsm8k_367": {
+    "predicted_difficulty": 0.38572314381599426,
+    "label": 1,
+    "tokens_greedy": 2843
+  },
+  "gsm8k_368": {
+    "predicted_difficulty": 0.02758052386343479,
+    "label": 1,
+    "tokens_greedy": 1708
+  },
+  "gsm8k_369": {
+    "predicted_difficulty": 6.526629476866219e-06,
+    "label": 0,
+    "tokens_greedy": 2002
+  },
+  "gsm8k_370": {
+    "predicted_difficulty": 0.7139336466789246,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_371": {
+    "predicted_difficulty": 0.1119019165635109,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_372": {
+    "predicted_difficulty": 0.5107212662696838,
+    "label": 0,
+    "tokens_greedy": 428
+  },
+  "gsm8k_373": {
+    "predicted_difficulty": 0.9980364441871643,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_374": {
+    "predicted_difficulty": 0.17835862934589386,
+    "label": 0,
+    "tokens_greedy": 352
+  },
+  "gsm8k_375": {
+    "predicted_difficulty": 0.00027339093503542244,
+    "label": 0,
+    "tokens_greedy": 337
+  },
+  "gsm8k_376": {
+    "predicted_difficulty": 0.0786387175321579,
+    "label": 0,
+    "tokens_greedy": 575
+  },
+  "gsm8k_377": {
+    "predicted_difficulty": 0.2301100343465805,
+    "label": 0,
+    "tokens_greedy": 825
+  },
+  "gsm8k_378": {
+    "predicted_difficulty": 4.4995696953264996e-05,
+    "label": 1,
+    "tokens_greedy": 484
+  },
+  "gsm8k_379": {
+    "predicted_difficulty": 0.00011173103848705068,
+    "label": 0,
+    "tokens_greedy": 1099
+  },
+  "gsm8k_380": {
+    "predicted_difficulty": 0.35364124178886414,
+    "label": 1,
+    "tokens_greedy": 668
+  },
+  "gsm8k_381": {
+    "predicted_difficulty": 0.2539798617362976,
+    "label": 0,
+    "tokens_greedy": 642
+  },
+  "gsm8k_382": {
+    "predicted_difficulty": 0.04337499663233757,
+    "label": 0,
+    "tokens_greedy": 1034
+  },
+  "gsm8k_383": {
+    "predicted_difficulty": 0.0626969262957573,
+    "label": 0,
+    "tokens_greedy": 838
+  },
+  "gsm8k_384": {
+    "predicted_difficulty": 0.04625338315963745,
+    "label": 0,
+    "tokens_greedy": 460
+  },
+  "gsm8k_385": {
+    "predicted_difficulty": 0.3886122703552246,
+    "label": 0,
+    "tokens_greedy": 507
+  },
+  "gsm8k_386": {
+    "predicted_difficulty": 0.11107590794563293,
+    "label": 0,
+    "tokens_greedy": 1545
+  },
+  "gsm8k_387": {
+    "predicted_difficulty": 0.37026622891426086,
+    "label": 0,
+    "tokens_greedy": 530
+  },
+  "gsm8k_388": {
+    "predicted_difficulty": 0.19366206228733063,
+    "label": 0,
+    "tokens_greedy": 359
+  },
+  "gsm8k_389": {
+    "predicted_difficulty": 0.6779946684837341,
+    "label": 0,
+    "tokens_greedy": 1180
+  },
+  "gsm8k_390": {
+    "predicted_difficulty": 0.3338545262813568,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_391": {
+    "predicted_difficulty": 0.12997731566429138,
+    "label": 0,
+    "tokens_greedy": 489
+  },
+  "gsm8k_392": {
+    "predicted_difficulty": 0.17432928085327148,
+    "label": 0,
+    "tokens_greedy": 1680
+  },
+  "gsm8k_393": {
+    "predicted_difficulty": 0.6681175231933594,
+    "label": 1,
+    "tokens_greedy": 410
+  },
+  "gsm8k_394": {
+    "predicted_difficulty": 0.04842676222324371,
+    "label": 1,
+    "tokens_greedy": 527
+  },
+  "gsm8k_395": {
+    "predicted_difficulty": 0.005079427268356085,
+    "label": 0,
+    "tokens_greedy": 568
+  },
+  "gsm8k_396": {
+    "predicted_difficulty": 0.03708560764789581,
+    "label": 0,
+    "tokens_greedy": 526
+  },
+  "gsm8k_397": {
+    "predicted_difficulty": 0.018016796559095383,
+    "label": 0,
+    "tokens_greedy": 1390
+  },
+  "gsm8k_398": {
+    "predicted_difficulty": 4.952946619596332e-05,
+    "label": 0,
+    "tokens_greedy": 1090
+  },
+  "gsm8k_399": {
+    "predicted_difficulty": 0.009664044715464115,
+    "label": 0,
+    "tokens_greedy": 663
+  },
+  "gsm8k_400": {
+    "predicted_difficulty": 0.026272697374224663,
+    "label": 0,
+    "tokens_greedy": 316
+  },
+  "gsm8k_401": {
+    "predicted_difficulty": 0.6511406898498535,
+    "label": 0,
+    "tokens_greedy": 1027
+  },
+  "gsm8k_402": {
+    "predicted_difficulty": 0.00038380242767743766,
+    "label": 0,
+    "tokens_greedy": 604
+  },
+  "gsm8k_403": {
+    "predicted_difficulty": 0.9719899892807007,
+    "label": 1,
+    "tokens_greedy": 1681
+  },
+  "gsm8k_404": {
+    "predicted_difficulty": 9.675453475210816e-05,
+    "label": 0,
+    "tokens_greedy": 746
+  },
+  "gsm8k_405": {
+    "predicted_difficulty": 0.030403712764382362,
+    "label": 0,
+    "tokens_greedy": 748
+  },
+  "gsm8k_406": {
+    "predicted_difficulty": 0.1027081236243248,
+    "label": 0,
+    "tokens_greedy": 2096
+  },
+  "gsm8k_407": {
+    "predicted_difficulty": 0.23925849795341492,
+    "label": 0,
+    "tokens_greedy": 921
+  },
+  "gsm8k_408": {
+    "predicted_difficulty": 0.25356796383857727,
+    "label": 0,
+    "tokens_greedy": 1218
+  },
+  "gsm8k_409": {
+    "predicted_difficulty": 0.7959243655204773,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_410": {
+    "predicted_difficulty": 0.04125835746526718,
+    "label": 0,
+    "tokens_greedy": 741
+  },
+  "gsm8k_411": {
+    "predicted_difficulty": 0.13654616475105286,
+    "label": 0,
+    "tokens_greedy": 514
+  },
+  "gsm8k_412": {
+    "predicted_difficulty": 0.009111285209655762,
+    "label": 0,
+    "tokens_greedy": 631
+  },
+  "gsm8k_413": {
+    "predicted_difficulty": 0.7915032505989075,
+    "label": 0,
+    "tokens_greedy": 497
+  },
+  "gsm8k_414": {
+    "predicted_difficulty": 0.28175199031829834,
+    "label": 0,
+    "tokens_greedy": 497
+  },
+  "gsm8k_415": {
+    "predicted_difficulty": 0.12071985006332397,
+    "label": 0,
+    "tokens_greedy": 1226
+  },
+  "gsm8k_416": {
+    "predicted_difficulty": 0.09857642650604248,
+    "label": 0,
+    "tokens_greedy": 1723
+  },
+  "gsm8k_417": {
+    "predicted_difficulty": 0.004736393690109253,
+    "label": 0,
+    "tokens_greedy": 1124
+  },
+  "gsm8k_418": {
+    "predicted_difficulty": 0.013901104219257832,
+    "label": 0,
+    "tokens_greedy": 615
+  },
+  "gsm8k_419": {
+    "predicted_difficulty": 0.7240967154502869,
+    "label": 0,
+    "tokens_greedy": 813
+  },
+  "gsm8k_420": {
+    "predicted_difficulty": 0.02841893956065178,
+    "label": 1,
+    "tokens_greedy": 446
+  },
+  "gsm8k_421": {
+    "predicted_difficulty": 1.1375436770322267e-05,
+    "label": 0,
+    "tokens_greedy": 548
+  },
+  "gsm8k_422": {
+    "predicted_difficulty": 0.3891674280166626,
+    "label": 1,
+    "tokens_greedy": 1430
+  },
+  "gsm8k_423": {
+    "predicted_difficulty": 0.017476145178079605,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_424": {
+    "predicted_difficulty": 0.001371056423522532,
+    "label": 0,
+    "tokens_greedy": 708
+  },
+  "gsm8k_425": {
+    "predicted_difficulty": 0.007966877892613411,
+    "label": 0,
+    "tokens_greedy": 1576
+  },
+  "gsm8k_426": {
+    "predicted_difficulty": 0.021926358342170715,
+    "label": 0,
+    "tokens_greedy": 531
+  },
+  "gsm8k_427": {
+    "predicted_difficulty": 0.5269033312797546,
+    "label": 0,
+    "tokens_greedy": 1761
+  },
+  "gsm8k_428": {
+    "predicted_difficulty": 0.9548277854919434,
+    "label": 0,
+    "tokens_greedy": 980
+  },
+  "gsm8k_429": {
+    "predicted_difficulty": 0.005612439010292292,
+    "label": 0,
+    "tokens_greedy": 432
+  },
+  "gsm8k_430": {
+    "predicted_difficulty": 0.00014817886403761804,
+    "label": 0,
+    "tokens_greedy": 1205
+  },
+  "gsm8k_431": {
+    "predicted_difficulty": 0.13766740262508392,
+    "label": 1,
+    "tokens_greedy": 1687
+  },
+  "gsm8k_432": {
+    "predicted_difficulty": 0.02880243957042694,
+    "label": 0,
+    "tokens_greedy": 873
+  },
+  "gsm8k_433": {
+    "predicted_difficulty": 0.0002554166712798178,
+    "label": 0,
+    "tokens_greedy": 459
+  },
+  "gsm8k_434": {
+    "predicted_difficulty": 0.00024227393441833556,
+    "label": 1,
+    "tokens_greedy": 1744
+  },
+  "gsm8k_435": {
+    "predicted_difficulty": 0.5483992099761963,
+    "label": 0,
+    "tokens_greedy": 358
+  },
+  "gsm8k_436": {
+    "predicted_difficulty": 0.03464905917644501,
+    "label": 1,
+    "tokens_greedy": 400
+  },
+  "gsm8k_437": {
+    "predicted_difficulty": 0.6369118094444275,
+    "label": 1,
+    "tokens_greedy": 1121
+  },
+  "gsm8k_438": {
+    "predicted_difficulty": 0.0842139720916748,
+    "label": 0,
+    "tokens_greedy": 1388
+  },
+  "gsm8k_439": {
+    "predicted_difficulty": 0.33808350563049316,
+    "label": 0,
+    "tokens_greedy": 1356
+  },
+  "gsm8k_440": {
+    "predicted_difficulty": 0.20534548163414001,
+    "label": 0,
+    "tokens_greedy": 1214
+  },
+  "gsm8k_441": {
+    "predicted_difficulty": 0.47295045852661133,
+    "label": 0,
+    "tokens_greedy": 794
+  },
+  "gsm8k_442": {
+    "predicted_difficulty": 0.04647879675030708,
+    "label": 1,
+    "tokens_greedy": 733
+  },
+  "gsm8k_443": {
+    "predicted_difficulty": 0.8252497911453247,
+    "label": 0,
+    "tokens_greedy": 1373
+  },
+  "gsm8k_444": {
+    "predicted_difficulty": 0.025309281423687935,
+    "label": 0,
+    "tokens_greedy": 786
+  },
+  "gsm8k_445": {
+    "predicted_difficulty": 0.6500981450080872,
+    "label": 0,
+    "tokens_greedy": 878
+  },
+  "gsm8k_446": {
+    "predicted_difficulty": 0.0014711525291204453,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_447": {
+    "predicted_difficulty": 0.010010838508605957,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_448": {
+    "predicted_difficulty": 0.03242585062980652,
+    "label": 0,
+    "tokens_greedy": 1134
+  },
+  "gsm8k_449": {
+    "predicted_difficulty": 0.011826515197753906,
+    "label": 0,
+    "tokens_greedy": 2530
+  },
+  "gsm8k_450": {
+    "predicted_difficulty": 0.23443485796451569,
+    "label": 0,
+    "tokens_greedy": 3882
+  },
+  "gsm8k_451": {
+    "predicted_difficulty": 0.23968470096588135,
+    "label": 0,
+    "tokens_greedy": 493
+  },
+  "gsm8k_452": {
+    "predicted_difficulty": 0.8404887318611145,
+    "label": 1,
+    "tokens_greedy": 656
+  },
+  "gsm8k_453": {
+    "predicted_difficulty": 0.004105953499674797,
+    "label": 0,
+    "tokens_greedy": 532
+  },
+  "gsm8k_454": {
+    "predicted_difficulty": 0.004122206009924412,
+    "label": 1,
+    "tokens_greedy": 392
+  },
+  "gsm8k_455": {
+    "predicted_difficulty": 0.09636437892913818,
+    "label": 0,
+    "tokens_greedy": 680
+  },
+  "gsm8k_456": {
+    "predicted_difficulty": 0.5470119118690491,
+    "label": 0,
+    "tokens_greedy": 878
+  },
+  "gsm8k_457": {
+    "predicted_difficulty": 0.3703482449054718,
+    "label": 0,
+    "tokens_greedy": 728
+  },
+  "gsm8k_458": {
+    "predicted_difficulty": 0.5804711580276489,
+    "label": 1,
+    "tokens_greedy": 414
+  },
+  "gsm8k_459": {
+    "predicted_difficulty": 0.6259765028953552,
+    "label": 0,
+    "tokens_greedy": 1679
+  },
+  "gsm8k_460": {
+    "predicted_difficulty": 0.2615148723125458,
+    "label": 0,
+    "tokens_greedy": 758
+  },
+  "gsm8k_461": {
+    "predicted_difficulty": 0.02725278213620186,
+    "label": 0,
+    "tokens_greedy": 374
+  },
+  "gsm8k_462": {
+    "predicted_difficulty": 0.00037096577580086887,
+    "label": 0,
+    "tokens_greedy": 238
+  },
+  "gsm8k_463": {
+    "predicted_difficulty": 0.1602010875940323,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_464": {
+    "predicted_difficulty": 0.24792371690273285,
+    "label": 0,
+    "tokens_greedy": 1904
+  },
+  "gsm8k_465": {
+    "predicted_difficulty": 0.10677649080753326,
+    "label": 0,
+    "tokens_greedy": 1074
+  },
+  "gsm8k_466": {
+    "predicted_difficulty": 0.4247629642486572,
+    "label": 0,
+    "tokens_greedy": 964
+  },
+  "gsm8k_467": {
+    "predicted_difficulty": 0.05945241451263428,
+    "label": 0,
+    "tokens_greedy": 629
+  },
+  "gsm8k_468": {
+    "predicted_difficulty": 0.02424103580415249,
+    "label": 0,
+    "tokens_greedy": 502
+  },
+  "gsm8k_469": {
+    "predicted_difficulty": 0.13536252081394196,
+    "label": 0,
+    "tokens_greedy": 545
+  },
+  "gsm8k_470": {
+    "predicted_difficulty": 0.00030589118250645697,
+    "label": 0,
+    "tokens_greedy": 859
+  },
+  "gsm8k_471": {
+    "predicted_difficulty": 0.0004690350906457752,
+    "label": 0,
+    "tokens_greedy": 622
+  },
+  "gsm8k_472": {
+    "predicted_difficulty": 0.13600875437259674,
+    "label": 0,
+    "tokens_greedy": 810
+  },
+  "gsm8k_473": {
+    "predicted_difficulty": 0.5735109448432922,
+    "label": 1,
+    "tokens_greedy": 609
+  },
+  "gsm8k_474": {
+    "predicted_difficulty": 0.014686690643429756,
+    "label": 0,
+    "tokens_greedy": 465
+  },
+  "gsm8k_475": {
+    "predicted_difficulty": 0.8033702373504639,
+    "label": 1,
+    "tokens_greedy": 1751
+  },
+  "gsm8k_476": {
+    "predicted_difficulty": 0.9882468581199646,
+    "label": 1,
+    "tokens_greedy": 975
+  },
+  "gsm8k_477": {
+    "predicted_difficulty": 0.0681527629494667,
+    "label": 0,
+    "tokens_greedy": 525
+  },
+  "gsm8k_478": {
+    "predicted_difficulty": 0.06171692535281181,
+    "label": 0,
+    "tokens_greedy": 1231
+  },
+  "gsm8k_479": {
+    "predicted_difficulty": 0.009542902931571007,
+    "label": 1,
+    "tokens_greedy": 1807
+  },
+  "gsm8k_480": {
+    "predicted_difficulty": 0.38340070843696594,
+    "label": 0,
+    "tokens_greedy": 599
+  },
+  "gsm8k_481": {
+    "predicted_difficulty": 0.048700425773859024,
+    "label": 0,
+    "tokens_greedy": 538
+  },
+  "gsm8k_482": {
+    "predicted_difficulty": 0.651168942451477,
+    "label": 0,
+    "tokens_greedy": 346
+  },
+  "gsm8k_483": {
+    "predicted_difficulty": 0.3172496259212494,
+    "label": 1,
+    "tokens_greedy": 462
+  },
+  "gsm8k_484": {
+    "predicted_difficulty": 0.000189192098332569,
+    "label": 0,
+    "tokens_greedy": 562
+  },
+  "gsm8k_485": {
+    "predicted_difficulty": 0.11929605901241302,
+    "label": 1,
+    "tokens_greedy": 448
+  },
+  "gsm8k_486": {
+    "predicted_difficulty": 0.5338627696037292,
+    "label": 1,
+    "tokens_greedy": 339
+  },
+  "gsm8k_487": {
+    "predicted_difficulty": 0.027417993173003197,
+    "label": 0,
+    "tokens_greedy": 732
+  },
+  "gsm8k_488": {
+    "predicted_difficulty": 0.20521363615989685,
+    "label": 0,
+    "tokens_greedy": 382
+  },
+  "gsm8k_489": {
+    "predicted_difficulty": 0.035351671278476715,
+    "label": 0,
+    "tokens_greedy": 496
+  },
+  "gsm8k_490": {
+    "predicted_difficulty": 0.12589387595653534,
+    "label": 0,
+    "tokens_greedy": 396
+  },
+  "gsm8k_491": {
+    "predicted_difficulty": 0.1850464642047882,
+    "label": 0,
+    "tokens_greedy": 646
+  },
+  "gsm8k_492": {
+    "predicted_difficulty": 0.42077508568763733,
+    "label": 0,
+    "tokens_greedy": 263
+  },
+  "gsm8k_493": {
+    "predicted_difficulty": 0.0661398395895958,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_494": {
+    "predicted_difficulty": 0.18088175356388092,
+    "label": 1,
+    "tokens_greedy": 4096
+  },
+  "gsm8k_495": {
+    "predicted_difficulty": 0.5787347555160522,
+    "label": 0,
+    "tokens_greedy": 912
+  },
+  "gsm8k_496": {
+    "predicted_difficulty": 0.27173590660095215,
+    "label": 0,
+    "tokens_greedy": 1004
+  },
+  "gsm8k_497": {
+    "predicted_difficulty": 0.42245399951934814,
+    "label": 0,
+    "tokens_greedy": 1286
+  },
+  "gsm8k_498": {
+    "predicted_difficulty": 0.021187864243984222,
+    "label": 0,
+    "tokens_greedy": 760
+  },
+  "gsm8k_499": {
+    "predicted_difficulty": 0.6580384373664856,
+    "label": 0,
+    "tokens_greedy": 1748
+  }
+}
