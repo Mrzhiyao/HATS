@@ -2,7 +2,7 @@
 
 This is an implementation of our paper Prefill-Guided Trace Allocation for Sample-Efficient Test-Time Scaling, accepted at the Conference on Neural Information Processing Systems (NeurIPS), 2026. In this repo, we implement the proposed Hidden-State Adaptive Trace Scheduler (HATS), which predicts greedy-trace reliability from prefill hidden states and routes each problem to one checked trace, a small vote, or the full self-consistency budget.
 
-The repository contains the code and small JSON files needed to run HATS and the main baselines. Plotting scripts, model checkpoints, and large third-party datasets are not included.
+The repository contains the code and small JSON files needed to run HATS and the main baselines.
 
 ## Files
 
@@ -32,8 +32,6 @@ The repository contains the code and small JSON files needed to run HATS and the
 ## Reproducibility Scope
 
 This package supports the main HATS MATH-500 run and the online baseline runners used in the paper. The JSON files in `data/` are generated intermediate artifacts, included so the main HATS command can be checked without rerunning all feature extraction and GPU generation.
-
-The package does not include plotting scripts, figure files, remote execution logs, hardware profiling traces, model checkpoints, or full experiment logs.
 
 ## Environment
 
